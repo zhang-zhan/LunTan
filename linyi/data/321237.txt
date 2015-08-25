@@ -1,0 +1,14 @@
+321237
+PG:RC  1:0
+ctime:2015-7-21 20:39:56
+title:贵阳市的纠纷
+text:
+http://img.langya.cn/forum/201507/21/203945zenwwrjze1j06ve0.jpg.thumb.jpg
+http://img.langya.cn/forum/201507/21/203950lf6e99e6f86tv639.jpg.thumb.jpg
+http://img.langya.cn/forum/201507/21/203953nx0unxh90nrpr0xk.jpg.thumb.jpg
+
+
+uname:遗情蝶恋
+sec:灌水拉呱
+ro:0
+uid:14283

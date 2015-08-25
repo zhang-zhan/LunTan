@@ -1,0 +1,36 @@
+325645
+PG:RC  1:1439250314
+ctime:2015-8-10 18:01:42
+title:这有点突然.....
+text:20多年，第一次，砸一下竟然砸中了
+http://img.langya.cn/forum/201508/10/180050a3joqdanomao8alq.jpg.thumb.jpg
+
+
+uname:寒西西
+sec:关注临沂
+ro:0
+uid:21717
+uid:138795
+text:捉紧买彩票去    500万就是你的 
+
+
+un:百斯特
+au:False
+time:2015-8-10 19:19:16
+ro:1439205556
+uid:10585
+text:祝你发大财，别忘了给我分点！
+
+
+un:lc333302
+au:False
+time:2015-8-10 21:10:22
+ro:1439212222
+uid:19812
+text:
+
+
+un:多吃点
+au:False
+time:2015-8-11 07:45:14
+ro:1439250314

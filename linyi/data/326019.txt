@@ -1,0 +1,265 @@
+326019
+PG:RC  2:1439696763
+ctime:2015-8-12 10:36:37
+title:正在拆迁中的盛庄农贸市场
+text:商户们正在忙碌着拆除违规建筑物......为了创卫迎查，最近临沂的城管蛮辛苦的，现场监督整治占道私搭乱建拆除违法建筑。盛庄农贸整治正在进行中......希望这次的整治可以把路打通，改善道路通畅。建议临西四路金七路交汇安装红绿灯，打通临西四路，搬迁盛庄农贸。大力整治马路市场占道私搭乱建乱搭不合法行为。不希望创卫迎查结束后违规占道私自搭建的棚子再搭起来了.......
+http://img.langya.cn/forum/201508/12/102804pjyni8ixaj4zyxel.jpg.thumb.jpg
+http://img.langya.cn/forum/201508/12/102805krauur4d4msdsuss.jpg.thumb.jpg
+http://img.langya.cn/forum/201508/12/102805wa6r6jgnh4znjtt4.jpg.thumb.jpg
+http://img.langya.cn/forum/201508/12/102806b6g0jc24656k66gb.jpg.thumb.jpg
+http://img.langya.cn/forum/201508/12/102807a7j5pq1jojpkqnqy.jpg.thumb.jpg
+http://img.langya.cn/forum/201508/12/102807hr99w2p1nx77mwpp.jpg.thumb.jpg
+http://img.langya.cn/forum/201508/12/102808yt7r0qhtmah8aub7.jpg.thumb.jpg
+http://img.langya.cn/forum/201508/12/102809xx1w1171wf47n25g.jpg.thumb.jpg
+http://img.langya.cn/forum/201508/12/102809igkjf3a4gc3xjc7l.jpg.thumb.jpg
+
+
+uname:renmin3000
+sec:关注临沂
+ro:0
+uid:140494
+uid:142409
+text:可行
+
+
+un:梵音
+au:False
+time:2015-8-12 10:43:53
+ro:1439347433
+uid:54281
+text:
+
+
+un:汀浯居士
+au:False
+time:2015-8-12 10:58:03
+ro:1439348283
+uid:187450
+text:盛庄这么好的位置，弄得跟破车院似的，脏乱差，交通拥堵，路况奇差，就不能板正弄个农贸市场把路好好修修？？领导们从来不来？
+
+
+un:xianlinz
+au:False
+time:2015-8-12 11:10:19
+ro:1439349019
+uid:455712
+text:
+
+
+un:张玉兴
+au:False
+time:2015-8-12 11:32:36
+ro:1439350356
+uid:362895
+text:
+
+
+un:1647827674
+au:False
+time:2015-8-12 12:01:26
+ro:1439352086
+uid:4703
+text:检查的走了再搭上？
+
+
+un:看看
+au:False
+time:2015-8-12 12:46:22
+ro:1439354782
+uid:194282
+text:期待 把我大美盛庄整理一下
+
+
+un:小小杨
+au:False
+time:2015-8-12 13:28:39
+ro:1439357319
+uid:5834
+text:我还去过那地方···
+
+
+un:依晨
+au:False
+time:2015-8-12 14:24:02
+ro:1439360642
+uid:140190
+text:盛庄集早该改造。说打算让万力建设好了搬迁到万力里面现在倒好还没建设就搬了，看样万力也没能力建设了。。。弄的赶个集都不方便
+
+
+un:caleb12
+au:False
+time:2015-8-12 14:50:20
+ro:1439362220
+uid:41335
+text:早搞早好
+
+
+un:临沂巴黎春天
+au:False
+time:2015-8-12 15:32:13
+ro:1439364733
+uid:457003
+text:希望彻底整治好！
+
+
+un:出海
+au:False
+time:2015-8-12 16:28:41
+ro:1439368121
+uid:140494
+quote:梵音 发表于 2015-8-12 10:43
+可行
+time:2015-8-12 16:47:58
+un:renmin3000
+au:True
+text:暂时买饭不方便是真的
+
+
+ro:1439369278
+uid:140494
+quote:汀浯居士 发表于 2015-8-12 10:58
+time:2015-8-12 16:48:12
+un:renmin3000
+au:True
+text:感谢支持
+
+
+ro:1439369292
+uid:140494
+quote:xianlinz 发表于 2015-8-12 11:10
+盛庄这么好的位置，弄得跟破车院似的，脏乱差，交通拥堵，路况奇差，就不能板正弄个农贸市场把路好好修修？ ...
+time:2015-8-12 16:48:40
+un:renmin3000
+au:True
+text:希望这次有所改进
+
+
+ro:1439369320
+uid:140494
+quote:张玉兴 发表于 2015-8-12 11:32
+time:2015-8-12 16:48:53
+un:renmin3000
+au:False
+text:感谢支持
+
+
+ro:1439369333
+uid:140494
+quote:1647827674 发表于 2015-8-12 12:01
+time:2015-8-12 16:49:01
+un:renmin3000
+au:False
+text:
+
+
+ro:1439369341
+uid:140494
+quote:看看 发表于 2015-8-12 12:46
+检查的走了再搭上？
+time:2015-8-12 16:49:14
+un:renmin3000
+au:False
+text:这个真不知道
+
+
+ro:1439369354
+uid:140494
+quote:小小杨 发表于 2015-8-12 13:28
+期待 把我大美盛庄整理一下
+time:2015-8-12 16:49:33
+un:renmin3000
+au:False
+text:是该整治了
+
+
+ro:1439369373
+uid:140494
+quote:依晨 发表于 2015-8-12 14:24
+我还去过那地方···
+time:2015-8-12 16:49:53
+un:renmin3000
+au:False
+text:快说你来干什么来
+
+
+ro:1439369393
+uid:140494
+quote:caleb12 发表于 2015-8-12 14:50
+盛庄集早该改造。说打算让万力建设好了搬迁到万力里面现在倒好还没建设就搬了，看样万力也没能力建设了。。 ...
+time:2015-8-12 16:50:20
+un:renmin3000
+au:False
+text:房地产不争气呀。
+
+
+ro:1439369420
+uid:140494
+quote:临沂巴黎春天 发表于 2015-8-12 15:32
+早搞早好
+time:2015-8-12 16:50:34
+un:renmin3000
+au:False
+text:拭目以待
+
+
+ro:1439369434
+uid:140494
+quote:出海 发表于 2015-8-12 16:28
+希望彻底整治好！
+time:2015-8-12 16:51:00
+un:renmin3000
+au:False
+text:是的，早该整治了
+
+
+ro:1439369460
+uid:5834
+quote:renmin3000 发表于 2015-8-12 16:49
+快说你来干什么来
+time:2015-8-13 09:52:12
+un:依晨
+au:False
+text:我去买菜
+
+
+ro:1439430732
+uid:942
+text:
+
+
+un:yjlhy666
+au:False
+time:2015-8-13 15:00:55
+ro:1439449255
+uid:154
+text:借势、借力是最好的时机！
+
+
+un:神秘色彩
+au:False
+time:2015-8-13 20:21:04
+ro:1439468464
+uid:191645
+text:治治也怪好，路变宽了，好走了。
+
+
+un:静悄悄123
+au:False
+time:2015-8-14 08:22:56
+ro:1439511776
+uid:406740
+text:真实
+
+
+un:自我超越
+au:False
+time:2015-8-16 06:16:56
+ro:1439677016
+uid:423569
+text:
+
+
+un:晃悠
+au:False
+time:2015-8-16 11:46:03
+ro:1439696763

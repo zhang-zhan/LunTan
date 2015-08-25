@@ -1,0 +1,82 @@
+304713
+PG:RC  1:1431941306
+ctime:2015-5-5 23:00:14
+title:河岸边的糖葫芦··· ···
+text:糖葫芦可以这样展示··· ···
+
+       今天下午6时左右，拍客在沂河西岸看到如此一景：不知道是哪位吃完了糖葫芦，就直接插在了这护栏上，拍客不敢多说什么··· ···，但是拍客看到的是，距离这个桩柱5米就有一个垃圾箱矗立在那里，，， ，，，
+http://img.langya.cn/forum/201505/05/225933bgxixu2ixuuxuyx2.jpg.thumb.jpg
+http://img.langya.cn/forum/201505/05/225934eh32htm2ckl3tn2h.jpg.thumb.jpg
+http://img.langya.cn/forum/201505/05/225933oh7mh976aa0m05n0.jpg.thumb.jpg
+
+
+uname:美本家
+sec:关注临沂
+ro:0
+uid:293
+uid:19812
+text:可能是留着第二天塞腚眼子的吧
+
+
+un:多吃点
+au:False
+time:2015-5-6 07:42:43
+ro:1430869363
+uid:293
+quote:多吃点 发表于 2015-5-6 07:42
+可能是留着第二天塞腚眼子的吧
+time:2015-5-6 08:33:32
+un:美本家
+au:True
+text:
+
+
+ro:1430872412
+uid:56362
+text:真是个无聊又没素质的人，您帮扔垃圾箱了吧？
+
+
+un:冰果
+au:False
+time:2015-5-6 09:58:09
+ro:1430877489
+uid:30008
+text:
+
+
+un:小魔仙
+au:False
+time:2015-5-6 10:34:02
+ro:1430879642
+uid:196770
+text:素质
+
+
+un:本分人
+au:False
+time:2015-5-6 11:45:58
+ro:1430883958
+uid:140190
+text:
+
+
+un:caleb12
+au:False
+time:2015-5-6 13:00:44
+ro:1430888444
+uid:254808
+text:
+
+
+un:晓东摄影
+au:False
+time:2015-5-10 05:41:30
+ro:1431207690
+uid:370031
+text:吃糖葫芦的多数都是小孩子，关键是家长
+
+
+un:linyick
+au:False
+time:2015-5-18 17:28:26
+ro:1431941306

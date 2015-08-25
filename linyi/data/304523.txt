@@ -1,0 +1,110 @@
+304523
+PG:RC  1:1430808892
+ctime:2015-5-4 22:37:25
+title:爆料：疑似景区电线被盗！
+text:爆料：这电缆是不是被盗了？！？！
+
+       拍客在滨河大道西岸游玩，看到了一处景观灯的电线好像是被盗了，挖出来的土沟，剪断的电线，扒了电线的皮，最后电线的铜丝没了，这个还怪值钱吗？值得去偷这一下？
+       拍客用步子量了一下，大约是19步（约19米左右吧），疑似公共设施被盗了，这个地方是谁管的？？赶紧过去看看吧，亡羊补牢来得及，别再有更大的损失··· ··· 
+http://img.langya.cn/forum/201505/04/223552e55odc234ovfo377.jpg.thumb.jpg
+http://img.langya.cn/forum/201505/04/223554t5qfvflfjbjjfqlf.jpg.thumb.jpg
+http://img.langya.cn/forum/201505/04/223550jrqwk4lxeillo484.jpg.thumb.jpg
+http://img.langya.cn/forum/201505/04/223550dk85cw5zprucnw5p.jpg.thumb.jpg
+http://img.langya.cn/forum/201505/04/223551lcai1w25n4e1kssn.jpg.thumb.jpg
+http://img.langya.cn/forum/201505/04/223552jq9gom5ogggggxmr.jpg.thumb.jpg
+http://img.langya.cn/forum/201505/04/223553rea699xf9agw5911.jpg.thumb.jpg
+http://img.langya.cn/forum/201505/04/223553bo6hchcvzczwjjvr.jpg.thumb.jpg
+
+
+uname:美本家
+sec:关注临沂
+ro:0
+uid:293
+uid:75885
+text:
+
+
+un:土豆
+au:False
+time:2015-5-5 07:24:42
+ro:1430781882
+uid:194282
+text:
+
+
+un:小小杨
+au:False
+time:2015-5-5 08:06:09
+ro:1430784369
+uid:19812
+text:发家致富冒险走捷径！一朝失手家破人亡！
+
+
+un:多吃点
+au:False
+time:2015-5-5 08:11:54
+ro:1430784714
+uid:74129
+text:
+
+
+un:ys2046
+au:False
+time:2015-5-5 09:23:14
+ro:1430788994
+uid:407405
+text:唉 社会一直就有这样的现实问题
+
+
+un:怕瓦落地
+au:False
+time:2015-5-5 10:44:21
+ro:1430793861
+uid:39656
+text:盗公共设施损失巨大的要判刑。查看监控
+
+
+un:男人来了
+au:False
+time:2015-5-5 10:44:41
+ro:1430793881
+uid:56362
+text:公共破坏决对要严惩。铜线真的很值钱的。
+
+
+un:冰果
+au:False
+time:2015-5-5 11:45:54
+ro:1430797554
+uid:5777
+text:致富好办法
+
+
+un:爱家贝利
+au:False
+time:2015-5-5 12:15:11
+ro:1430799311
+uid:413156
+text:这是哪个位置呀，实在是太让人气氛了，为了那一点蝇头小利，损害大家的利益。
+
+
+un:小夏夏521
+au:False
+time:2015-5-5 14:39:04
+ro:1430807944
+uid:139926
+text:严惩不贷，需用重典
+
+
+un:逍遥猎人007
+au:False
+time:2015-5-5 14:45:43
+ro:1430808343
+uid:194306
+text:
+
+
+un:佳佳皮草
+au:False
+time:2015-5-5 14:54:52
+ro:1430808892

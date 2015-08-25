@@ -1,0 +1,143 @@
+303235
+PG:RC  2:1435459963
+ctime:2015-4-28 09:46:29
+title:看到这样的画面，温暖又辛酸
+text:   环卫工人带着自己的孙子在马路中间清扫路上的垃圾，车窗抛物造的垃圾！孙子乘车，但是车厢是奶奶的垃圾车，垃圾箱！奶奶时而看看孩子，给孩子擦擦汗！孩子乖乖的站在车厢里，就这样陪着奶奶…看到这样的画面，你车窗抛物的习惯还能继续？
+http://img.langya.cn/forum/201504/28/094555veoqozzdyy48vzit.jpg.thumb.jpg
+http://img.langya.cn/forum/201504/28/094600zuzsl5ueasrcrxaz.jpg.thumb.jpg
+http://img.langya.cn/forum/201504/28/094603bf5dot5hrcffrbka.jpg.thumb.jpg
+http://img.langya.cn/forum/201504/28/094605sl1k24i554arr151.jpg.thumb.jpg
+
+
+uname:法号野合
+sec:关注临沂
+ro:0
+uid:125853
+uid:203360
+text:生活不易呀
+
+
+un:秀才遇到兵
+au:False
+time:2015-4-28 11:49:53
+ro:1430192993
+uid:293
+text:很感人   但也是很危险，好辛苦。
+
+
+un:美本家
+au:False
+time:2015-4-28 13:54:51
+ro:1430200491
+uid:157
+text:是的，是的，每当看到这种情景，让人感觉酸酸的。习惯、乐于车窗抛物的那些人，她们是不会关注这个的！
+
+
+un:沂河清风
+au:False
+time:2015-4-28 14:27:15
+ro:1430202435
+uid:5514
+text:带着孩子工作不容易来自: Android客户端
+
+
+un:乐乐妈
+au:False
+time:2015-4-28 14:38:25
+ro:1430203105
+uid:19812
+text:扣顶大帽子！临沂民生
+
+
+un:多吃点
+au:False
+time:2015-4-28 15:58:21
+ro:1430207901
+uid:140190
+text:
+
+
+un:caleb12
+au:False
+time:2015-4-28 15:59:43
+ro:1430207983
+uid:219371
+text:以后都注意  别车窗抛物了
+
+
+un:cs5234
+au:False
+time:2015-4-28 17:11:33
+ro:1430212293
+uid:235230
+text:你少扔一次，老人就少弯一次腰；你少扔一次，就是积了一次德。
+
+
+un:dangfangmu
+au:False
+time:2015-4-28 17:22:25
+ro:1430212945
+uid:226030
+text:养成良好思想品德，到国外也不丢临沂人的脸。
+
+
+un:迷恋光影
+au:False
+time:2015-4-28 18:38:41
+ro:1430217521
+uid:409900
+text:从自我做起，文明城市做文明人！！
+
+
+un:xq5658
+au:False
+time:2015-4-28 18:49:44
+ro:1430218184
+uid:408622
+text:大娘！你辛苦了！来自: Android客户端
+
+
+un:3628
+au:False
+time:2015-4-28 19:00:25
+ro:1430218825
+uid:393040
+text:   敢以自己的健康发誓：到目前为止，没有一次车窗抛物。。。以后不敢保证一次没有。。。但是会尽量做到。。。
+
+
+un:壹品.饰家装饰
+au:False
+time:2015-4-29 09:26:05
+ro:1430270765
+uid:112012
+text:
+
+
+un:jimmy--006
+au:False
+time:2015-4-29 22:40:25
+ro:1430318425
+uid:275242
+text:车窗抛物的是走路拉屎的畜牲。
+
+
+un:杨家沟人
+au:False
+time:2015-4-29 23:04:57
+ro:1430319897
+uid:139621
+text:
+
+
+un:pzxpy
+au:False
+time:2015-6-27 21:43:55
+ro:1435412635
+uid:54281
+text:唉，生活不容易，祝环卫工人平安幸福。
+
+
+un:汀浯居士
+au:False
+time:2015-6-28 10:52:43
+ro:1435459963

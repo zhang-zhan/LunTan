@@ -1,0 +1,73 @@
+325241
+PG:RC  1:1439274235
+ctime:2015-8-8 17:31:55
+title:都来围观啊，看看这是谁？？！临大偶遇~~~~
+text:@临沂大学 
+http://img.langya.cn/forum/201508/08/172823ibzooerab2eo9dgn.jpg.thumb.jpg
+http://img.langya.cn/forum/201508/08/172759kss0t1tmtzsbos16.jpg.thumb.jpg
+http://img.langya.cn/forum/201508/08/172754qrl66mkxvl0i3stz.jpg.thumb.jpg
+http://img.langya.cn/forum/201508/08/172751kpzpn4ozjiooijgg.jpg.thumb.jpg
+http://img.langya.cn/forum/201508/08/172745ue9xbxvit99g99yx.jpg.thumb.jpg
+http://img.langya.cn/forum/201508/08/172742aafaehaeo5kr3sof.jpg.thumb.jpg
+http://img.langya.cn/forum/201508/08/172732jsuupnrrrrimip87.jpg.thumb.jpg
+http://img.langya.cn/forum/201508/08/172728gulev3m6xeuu8h4y.jpg.thumb.jpg
+http://img.langya.cn/forum/201508/08/172726t49kfcvw55iniu1j.jpg.thumb.jpg
+http://img.langya.cn/forum/201508/08/172718fhtdkxfzydfa8tzl.jpg.thumb.jpg
+http://img.langya.cn/forum/201508/08/172706f9xq4eetojkjc77o.jpg.thumb.jpg
+http://img.langya.cn/forum/201508/08/172709b1zvd7ckctwn0wtz.jpg.thumb.jpg
+http://img.langya.cn/forum/201508/08/172712ovgkvxr4k4ygwnzn.jpg.thumb.jpg
+http://img.langya.cn/forum/201508/08/172716vvcouj7r768oee8j.jpg.thumb.jpg
+
+
+uname:社区daren
+sec:关注临沂
+ro:0
+uid:469910
+uid:125087
+text:
+
+
+un:黑老
+au:False
+time:2015-8-9 08:05:39
+ro:1439078739
+uid:203177
+text:弱弱的问一句：不热吗？
+
+
+un:yinlh504
+au:False
+time:2015-8-8 20:15:55
+ro:1439036155
+uid:19812
+text:
+
+
+un:多吃点
+au:False
+time:2015-8-9 07:34:47
+ro:1439076887
+uid:76600
+text:
+
+
+un:潮退拾贝
+au:False
+time:2015-8-9 08:20:52
+ro:1439079652
+uid:154
+text:
+
+
+un:神秘色彩
+au:False
+time:2015-8-9 10:05:01
+ro:1439085901
+uid:54281
+text:小心中暑
+
+
+un:汀浯居士
+au:False
+time:2015-8-11 14:23:55
+ro:1439274235

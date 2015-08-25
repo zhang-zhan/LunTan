@@ -1,0 +1,23 @@
+175307
+PG:RC  1:1439456520
+ctime:2015-8-13 17:01
+title:天津的同学刚发来的现场图片，愿逝者安息！ ...
+text:
+data/attachment/forum/201508/13/170048fo75bz7bufhllzli.jpg
+data/attachment/forum/201508/13/170051pxp0n6cxbedp1ovd.jpg
+data/attachment/forum/201508/13/170053w48r9o9mf9p9pu3y.jpg
+data/attachment/forum/201508/13/170056vf3fm25rkikpzmrf.jpg
+
+
+uname:Me|草草ゞ
+sec:我爱日照
+ro:0
+uid:46021
+uid:http://bbs
+text:愿好人平安，逝者安息
+
+
+un:准风月谈㎡
+au:False
+time:2015-8-13 17:02
+ro:1439456520

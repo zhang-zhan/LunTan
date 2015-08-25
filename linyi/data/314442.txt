@@ -1,0 +1,108 @@
+314442
+PG:RC  1:1438074051
+ctime:2015-6-19 09:49:17
+title:看海模式开启
+text:
+http://img.langya.cn/forum/201506/19/094853bgwfqs84srffiesw.jpg.thumb.jpg
+http://img.langya.cn/forum/201506/19/094853u4778pzgdpmw02dd.jpg.thumb.jpg
+
+
+uname:百斯特
+sec:关注临沂
+ro:0
+uid:138795
+uid:232151
+text:大美临沂！！！！！！！！！！
+
+
+un:游侠578
+au:False
+time:2015-6-19 10:44:08
+ro:1434681848
+uid:138795
+quote:游侠578 发表于 2015-6-19 10:44
+大美临沂！！！！！！！！！！
+time:2015-6-19 11:05:34
+un:百斯特
+au:True
+text:邀你来看海
+
+
+ro:1434683134
+uid:74129
+text:这是哪里
+
+
+un:ys2046
+au:False
+time:2015-6-19 13:48:15
+ro:1434692895
+uid:226030
+text:好大的雨，旱情解决了。
+
+
+un:迷恋光影
+au:False
+time:2015-6-19 16:32:12
+ro:1434702732
+uid:138795
+quote:迷恋光影 发表于 2015-6-19 16:32
+好大的雨，旱情解决了。
+time:2015-6-19 18:56:40
+un:百斯特
+au:True
+text:打电话 问了一下 俺老家 莒南没下
+
+
+ro:1434711400
+uid:138795
+quote:ys2046 发表于 2015-6-19 13:48
+这是哪里
+time:2015-6-19 18:57:28
+un:百斯特
+au:True
+text:开发区 海关路南段
+
+
+ro:1434711448
+uid:154
+text:这次大雨又要考验下水道了！
+http://img.langya.cn/forum/201506/23/193740v57u91q1hl199cv6.jpg.thumb.jpg
+
+
+un:神秘色彩
+au:False
+time:2015-6-23 19:37:43
+ro:1435059463
+uid:141947
+text:需要水的农村下的小
+
+
+un:驿动的心
+au:False
+time:2015-6-24 18:45:28
+ro:1435142728
+uid:139621
+text:
+
+
+un:pzxpy
+au:False
+time:2015-7-27 19:25:26
+ro:1437996326
+uid:76600
+text:爽歪歪  呀
+
+
+un:潮退拾贝
+au:False
+time:2015-7-27 20:00:48
+ro:1437998448
+uid:54281
+text:
+
+
+un:汀浯居士
+au:False
+time:2015-7-28 17:00:51
+ro:1438074051

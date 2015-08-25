@@ -1,0 +1,24 @@
+322182
+PG:RC  1:1437902040
+ctime:2015-7-26 17:13:15
+title:陈奕霖马林巴音乐会
+text:去临沂大剧院看了场陈奕霖马林巴独奏音乐会，这才知道临沂也有国际级的音乐殿堂。
+http://img.langya.cn/forum/201507/26/171240ny0k93za6hkfylz0.jpg.thumb.jpg
+http://img.langya.cn/forum/201507/26/171243fabqihqviv22gk0v.jpg.thumb.jpg
+http://img.langya.cn/forum/201507/26/171246yn6onb26gr4ur255.jpg.thumb.jpg
+http://img.langya.cn/forum/201507/26/171249ib6tbn0b5gbybn6d.jpg.thumb.jpg
+http://img.langya.cn/forum/201507/26/171252ft3330p1hw611hjy.jpg.thumb.jpg
+
+
+uname:屋檐下的冰凌
+sec:关注临沂
+ro:0
+uid:95
+uid:95
+text:只是大剧院工作人员服务态度太差，问个事情都不告诉
+
+
+un:屋檐下的冰凌
+au:True
+time:2015-7-26 17:14:00
+ro:1437902040

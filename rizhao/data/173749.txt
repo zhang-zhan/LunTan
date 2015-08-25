@@ -1,0 +1,18 @@
+173749
+PG:RC  1:0
+ctime:2015-7-27 09:50
+title:万平口海滩露天饭店
+text:日照万平口海滩门口摊子垃圾，吃饭垃圾太贵！不一样人点菜，不一样价格
+大碗鱼要了128元，其他人要了48元。
+鱿鱼要价48元还是特价，就黑价啊
+data/attachment/forum/201507/27/094944jwhbxaj5c5ac1cdw.jpg
+data/attachment/forum/201507/27/094948mktz5tpkx7pmomm3.jpg
+data/attachment/forum/201507/27/094951k44duuru1bezzd6u.jpg
+data/attachment/forum/201507/27/094955zpccje9zhrzcgapr.jpg
+data/attachment/forum/201507/27/094958z0j983i0el33i3j0.jpg
+
+
+uname:梦的方向叫闯
+sec:我爱日照
+ro:0
+uid:46089

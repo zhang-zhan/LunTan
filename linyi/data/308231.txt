@@ -1,0 +1,83 @@
+308231
+PG:RC  1:1432124427
+ctime:2015-5-20 10:38:47
+title:图示对比：三大电信运营商哪个你更喜欢？（转）
+text:搜索
+复制
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+这三个电信运营商，您喜欢哪一个？？您支持关注拥护哪一个？？您现在用的是哪一个？？说出心里话，我给你加分鼓励
+http://img.langya.cn/forum/201505/20/102854rhi4rtix88mh333a.jpg.thumb.jpg
+http://img.langya.cn/forum/201505/20/102854slrvm0sr580va8z4.jpg.thumb.jpg
+http://img.langya.cn/forum/201505/20/102855s7h6chyui99s0nd8.jpg.thumb.jpg
+http://img.langya.cn/forum/201505/20/102855gc0t0v0nvk2nhhkn.jpg.thumb.jpg
+http://img.langya.cn/forum/201505/20/102856irvvvrua5kcvn03r.jpg.thumb.jpg
+http://img.langya.cn/forum/201505/20/102856e28l2z84bwk4wf8b.jpg.thumb.jpg
+http://img.langya.cn/forum/201505/20/102856h1dob8kobzxbp9qs.jpg.thumb.jpg
+http://img.langya.cn/forum/201505/20/102857jct26up0gnz292rc.jpg.thumb.jpg
+
+
+uname:美本家
+sec:关注临沂
+ro:0
+uid:293
+uid:4570
+text:通话还是移动。上网，3G联通快。4G目前移动好，联通4G技术占优势，但网络不占优势。电信没用过。
+
+
+un:一把刀
+au:False
+time:2015-5-20 13:32:19
+ro:1432099939
+uid:41335
+text:
+
+
+un:临沂巴黎春天
+au:False
+time:2015-5-20 14:29:24
+ro:1432103364
+uid:13587
+text:都不好，都不喜欢，但不喜欢也得硬着头皮用，没办法... ...
+
+
+un:海歌18727
+au:False
+time:2015-5-20 15:08:52
+ro:1432105732
+uid:145152
+text:都是吃人不吐骨头的恶鬼。
+
+
+un:绿竹
+au:False
+time:2015-5-20 15:17:05
+ro:1432106225
+uid:275242
+text:联通宽带无法立户的问题解决了。立不了户可以安装使用移动宽带了。停用联通宽带使用移动宽带后，每月65.00元的宽带费，以后可以少交点了。
+
+
+un:杨家沟人
+au:False
+time:2015-5-20 20:20:27
+ro:1432124427

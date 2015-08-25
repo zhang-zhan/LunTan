@@ -1,0 +1,171 @@
+309707
+PG:RC  2:1432720149
+ctime:2015-5-26 05:37:28
+title:临西五路有些路口的红绿灯已经开始用起来了
+text:就是停止线还木划好  司机都不好确定停什么位置
+http://img.langya.cn/forum/201505/26/053656rx64h1ot4e44ttoh.jpg.thumb.jpg
+http://img.langya.cn/forum/201505/26/053702etbafeddfa722d7b.jpg.thumb.jpg
+http://img.langya.cn/forum/201505/26/053707v7j6d9d6vcn97v3z.jpg.thumb.jpg
+http://img.langya.cn/forum/201505/26/053712ty44mslzlof5w5g4.jpg.thumb.jpg
+http://img.langya.cn/forum/201505/26/053717tu2kd4vl5brcbk4r.jpg.thumb.jpg
+http://img.langya.cn/forum/201505/26/053846i43bbb3qncu6ccub.jpg.thumb.jpg
+
+
+uname:酷瞎子
+sec:关注临沂
+ro:0
+uid:9437
+uid:154
+text:盼着早日通行！
+
+
+un:神秘色彩
+au:False
+time:2015-5-26 07:20:52
+ro:1432596052
+uid:19812
+quote:神秘色彩 发表于 2015-5-26 07:20
+盼着早日通行！
+time:2015-5-26 07:44:24
+un:多吃点
+au:False
+text:虽然俺不走高架桥也不走五路，但也还是和您一样的期待
+
+
+ro:1432597464
+uid:194282
+text:这几天最南头的还在堵着，又得绕路
+
+
+un:小小杨
+au:False
+time:2015-5-26 07:57:44
+ro:1432598264
+uid:140057
+text:
+
+
+un:临沂燕子
+au:False
+time:2015-5-26 09:54:24
+ro:1432605264
+uid:141444
+text:虽然本人无照无车，但是还是希望早点通车。让大侠们到高空飞奔吧。正常道路不适合你们了。
+
+
+un:闪中飞
+au:False
+time:2015-5-26 10:08:11
+ro:1432606091
+uid:264581
+text:
+
+
+un:临沂新庆余堂
+au:False
+time:2015-5-26 10:19:32
+ro:1432606772
+uid:187536
+quote:闪中飞 发表于 2015-5-26 10:08
+虽然本人无照无车，但是还是希望早点通车。让大侠们到高空飞奔吧。正常道路不适合你们了。
+time:2015-5-26 11:06:38
+un:lincy1224
+au:False
+text:
+
+
+ro:1432609598
+uid:9437
+quote:闪中飞 发表于 2015-5-26 10:08
+虽然本人无照无车，但是还是希望早点通车。让大侠们到高空飞奔吧。正常道路不适合你们了。
+time:2015-5-26 11:07:54
+un:酷瞎子
+au:True
+text:电瓶车也是车
+
+
+ro:1432609674
+uid:4206
+text:
+
+
+un:琅琊山人
+au:False
+time:2015-5-26 11:15:23
+ro:1432610123
+uid:190767
+text:看这几张图片，临沂显得高大上一些了哈。
+
+
+un:收废铁的
+au:False
+time:2015-5-26 11:18:42
+ro:1432610322
+uid:141444
+quote:酷瞎子 发表于 2015-5-26 11:07
+电瓶车也是车
+time:2015-5-26 13:59:19
+un:闪中飞
+au:False
+text:大哥。电瓶车上不了高架桥啊。
+
+
+ro:1432619959
+uid:9437
+quote:闪中飞 发表于 2015-5-26 13:59
+大哥。电瓶车上不了高架桥啊。
+time:2015-5-26 14:12:23
+un:酷瞎子
+au:True
+text:现在应该可以上  月初我骑自行车都上过
+
+
+ro:1432620743
+uid:16831
+text:公交车线路又要开始大调整了。
+
+
+un:fzzhou
+au:False
+time:2015-5-26 15:18:31
+ro:1432624711
+uid:180527
+text:感觉好棒
+
+
+un:荒野の無法者
+au:False
+time:2015-5-26 21:29:12
+ro:1432646952
+uid:147479
+text:早点通车 临西一路也不至于天天堵的这么厉害了
+
+
+un:风轻飏
+au:False
+time:2015-5-27 11:34:45
+ro:1432697685
+uid:140190
+text:
+
+
+un:caleb12
+au:False
+time:2015-5-27 11:45:59
+ro:1432698359
+uid:30440
+text:
+
+
+un:鑫栋
+au:False
+time:2015-5-27 16:48:14
+ro:1432716494
+uid:66904
+text:下雨天,在桥底下走,一定很爽.
+
+
+un:结余
+au:False
+time:2015-5-27 17:49:09
+ro:1432720149

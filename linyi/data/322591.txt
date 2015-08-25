@@ -1,0 +1,52 @@
+322591
+PG:RC  1:1438055229
+ctime:2015-7-28 10:44:03
+title:7.28号一大早又三家物流出状况
+text:昨晚有朋友提醒，军联物流东大门3号物流出状况，老板已被110控制住。今早果然出了状况。紧接着金海汇19--20号临沂--单县，成武的物流也出状况。网友爆料兰华营房临沂--台前的物流也不见了，市场办公室解释搬走了，电话也不通。传部分现场图片大家看看。一天三家，临沂物流到底怎么了？
+http://img.langya.cn/forum/201507/28/110000q5eyyybklt2132y5.png.thumb.jpg
+http://img.langya.cn/forum/201507/28/110130h96mu9e6mmmb409l.jpg.thumb.jpg
+http://img.langya.cn/forum/201507/28/104326iijiy16e0ynnjhnj.jpg.thumb.jpg
+http://img.langya.cn/forum/201507/28/104324qza9zdfe3o9639r1.jpg.thumb.jpg
+http://img.langya.cn/forum/201507/28/104318u979gbg7crg0vr9r.jpg.thumb.jpg
+http://img.langya.cn/forum/201507/28/104315sslp6zhl667hpl5p.jpg.thumb.jpg
+http://img.langya.cn/forum/201507/28/104317zldlg6xnlny63oqx.jpg.thumb.jpg
+http://img.langya.cn/forum/201507/28/104320qspf1hcs61rzd21g.jpg.thumb.jpg
+http://img.langya.cn/forum/201507/28/104322qqmjjuoooz7bemvv.jpg.thumb.jpg
+
+
+uname:浪子韩柏
+sec:关注临沂
+ro:0
+uid:20006
+uid:10585
+text:赶快跑！
+
+
+un:lc333302
+au:False
+time:2015-7-28 10:46:45
+ro:1438051605
+uid:4570
+text:巴菲特说过：你只有在退潮时才能看出谁在裸泳。 这句话我觉得适合很多领域。
+
+
+un:一把刀
+au:False
+time:2015-7-28 11:17:04
+ro:1438053424
+uid:188444
+text:都是草台班子的物流公司，其实不算是物流公司，其实就是个配货站，配货站倒闭太容易了， 我曾经的配货站也倒闭了，款一时周转不开，不能按时放就会出问题
+
+
+un:longer82
+au:False
+time:2015-7-28 11:46:04
+ro:1438055164
+uid:188444
+text:做这种物流的，其实是最没有含量的，大家也都可以去做，没有什么门槛
+
+
+un:longer82
+au:False
+time:2015-7-28 11:47:09
+ro:1438055229

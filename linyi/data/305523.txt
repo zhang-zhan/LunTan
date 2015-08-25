@@ -1,0 +1,37 @@
+305523
+PG:RC  1:1431150121
+ctime:2015-5-8 21:44:51
+title:平邑蒙山大道发生一起车祸 看看厉害不
+text:
+http://img.langya.cn/forum/201505/08/214413trmpumxiutpxb88t.jpg.thumb.jpg
+http://img.langya.cn/forum/201505/08/214414kw1dbxhy6wb230zx.jpg.thumb.jpg
+
+
+uname:快乐加油站
+sec:关注临沂
+ro:0
+uid:47871
+uid:47871
+text:
+
+
+un:快乐加油站
+au:True
+time:2015-5-9 10:28:55
+ro:1431138535
+uid:13587
+text:估计是进楼主的快乐加油站，加“快乐”加多了，造成异常兴奋才造成的事故。
+
+
+un:海歌18727
+au:False
+time:2015-5-9 11:33:56
+ro:1431142436
+uid:141441
+text:威力不小，，，
+
+
+un:海风轻轻吹大地
+au:False
+time:2015-5-9 13:42:01
+ro:1431150121

@@ -1,0 +1,99 @@
+326675
+PG:RC  1:1439794749
+ctime:2015-8-15 07:15:25
+title:路面修复：是不是设上安全标示比较合适？
+text:沂蒙路这些“补丁”啥时候清理？
+
+            拍客看到沂蒙路南端有好多的修路“补丁”，拍客也不是很懂这是干么的，但是不是现在的水泥24小时候就可以正常压踩？这样“保护”着新修好路面能到几时？堆的沙土砖砺一块一堆，堵得行人都很难通过，不美观也不安全。            要不，拍客认为：再有这种路面修复的时候，是不是设上安全标示？或弄个安全围挡、警示牌照等这样比较合适？
+http://img.langya.cn/forum/201508/15/070643yrd2kr1mxdzp61mp.jpg.thumb.jpg
+http://img.langya.cn/forum/201508/15/070650xzlzz1pa77yiebpb.jpg.thumb.jpg
+http://img.langya.cn/forum/201508/15/070658ij9uq6q29406q77p.jpg.thumb.jpg
+http://img.langya.cn/forum/201508/15/070710mttaakzl7mq9ehha.jpg.thumb.jpg
+http://img.langya.cn/forum/201508/15/070717sywys1smn26avpoa.jpg.thumb.jpg
+http://img.langya.cn/forum/201508/15/070719iggtevrjvbp9zfbf.jpg.thumb.jpg
+http://img.langya.cn/forum/201508/15/070720s1m55690ajxj96p6.jpg.thumb.jpg
+http://img.langya.cn/forum/201508/15/070721nlmdjmdl9j2djzoh.jpg.thumb.jpg
+http://img.langya.cn/forum/201508/15/070722i3uuf1ghi8my0gr4.jpg.thumb.jpg
+http://img.langya.cn/forum/201508/15/070723vytl0ptp523gctdn.jpg.thumb.jpg
+http://img.langya.cn/forum/201508/15/070724arkh2aez525pzrx4.jpg.thumb.jpg
+http://img.langya.cn/forum/201508/15/070725rb6pxddbr3iurtj3.jpg.thumb.jpg
+http://img.langya.cn/forum/201508/15/070727wco656sgoojts0d5.jpg.thumb.jpg
+http://img.langya.cn/forum/201508/15/070728ds02ery0is0si0tt.jpg.thumb.jpg
+http://img.langya.cn/forum/201508/15/070728vs6gsohqzb5zdq4u.jpg.thumb.jpg
+http://img.langya.cn/forum/201508/15/070730kzakb4uqzru6422i.jpg.thumb.jpg
+
+
+uname:美本家
+sec:关注临沂
+ro:0
+uid:293
+uid:19812
+text:以恶制恶吧
+
+
+un:多吃点
+au:False
+time:2015-8-15 07:36:37
+ro:1439595397
+uid:125087
+text:创城怪现象
+
+
+un:黑老
+au:False
+time:2015-8-15 09:03:09
+ro:1439600589
+uid:115976
+text:可能是忙 还没来得及清理
+
+
+un:沂蒙风情
+au:False
+time:2015-8-15 10:46:10
+ro:1439606770
+uid:293
+quote:沂蒙风情 发表于 2015-8-15 10:46
+可能是忙 还没来得及清理
+time:2015-8-15 11:48:58
+un:美本家
+au:True
+text:这一下雨，泥沙泥浆都灌到下水道里了，唉，恶性循环啊！！！怎么环保啊！！！
+
+
+ro:1439610538
+uid:115976
+quote:美本家 发表于 2015-8-15 11:48
+这一下雨，泥沙泥浆都灌到下水道里了，唉，恶性循环啊！！！怎么环保啊！！！
+time:2015-8-15 12:35:22
+un:沂蒙风情
+au:False
+text:那就再疏通下水道，要不钱怎么花啊
+
+
+ro:1439613322
+uid:293
+quote:沂蒙风情 发表于 2015-8-15 12:35
+那就再疏通下水道，要不钱怎么花啊
+time:2015-8-15 12:37:39
+un:美本家
+au:True
+text:
+
+
+ro:1439613459
+uid:154
+text:只管修，不管清！
+
+
+un:神秘色彩
+au:False
+time:2015-8-15 18:22:51
+ro:1439634171
+uid:41335
+text:没人清理啊
+
+
+un:临沂巴黎春天
+au:False
+time:2015-8-17 14:59:09
+ro:1439794749

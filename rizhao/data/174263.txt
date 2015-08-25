@@ -1,0 +1,33 @@
+174263
+PG:RC  1:1438523100
+ctime:2015-7-31 17:43
+title:日照特产！“花千骨”
+text:日照特产！陆地海参！！！
+摸一下提神醒脑，抓一下神魂颠倒，
+滚一圈你这辈子就完鸟。
+曾让无数日照小盆友闻风丧胆。
+请跟我一起读（shua mu jia zi），最近流行叫法：花千骨
+data/attachment/forum/201507/31/174216ww61s1u9zi36zzkf.jpg
+data/attachment/forum/201507/31/174216xsmuqu0blt1bl2lm.jpeg
+
+
+uname:太阳城堡
+sec:我爱日照
+ro:0
+uid:36399
+uid:http://bbs
+text:刷麻甲子
+
+
+un:晨练的人
+au:False
+time:2015-8-1 07:46
+ro:1438386360
+uid:http://bbs
+text:夏天最怕这个。
+
+
+un:如梦令1
+au:False
+time:2015-8-2 21:45
+ro:1438523100

@@ -1,0 +1,351 @@
+278252
+PG:RC  2:1431327017
+ctime:2014-12-9 14:02:26
+title:琅琊新闻网专访临沂本土农民歌手苗雨
+text:基本信息：
+
+苗雨（农民歌手）
+民族： 汉族
+籍贯：山东临沂
+
+
+作品：
+《家住临沂》（原创）
+《乡情》（原创）
+《再回首》
+《驿动的心》
+《多年以后》
+《多情不悔》
+《我是个很容易掏心的人》
+《我是个需要很多爱的人》
+
+
+电影短片 ：《正月》
+
+
+歌曲试听：
+家住临沂(升级版)
+
+
+
+家住临沂 伴奏(升级版)
+$('mp3_Zg8').innerHTML=AC_FL_RunContent('FlashVars', 'soundFile=http%3A%2F%2Fbbs.langya.cn%2Fforum.php%3Fmod%3Dattachment%26aid%3DNDgyMjYzfDNhMTAwZmNkNzI5OGViNDdiYmM3NjhkNDFhYjQzZWNjfDE0NDA0NjUwMzc%253D%26request%3Dyes%26_f%3D.mp3', 'width', '290', 'height', '24', 'allowNetworking', 'internal', 'allowScriptAccess', 'never', 'src', 'static/image/common/player.swf', 'quality', 'high', 'bgcolor', '#FFFFFF', 'menu', 'false', 'wmode', 'transparent', 'allowNetworking', 'internal');
+
+苗雨-陪陪老母亲
+$('mp3_Iv1').innerHTML=AC_FL_RunContent('FlashVars', 'soundFile=http%3A%2F%2Fbbs.langya.cn%2Fforum.php%3Fmod%3Dattachment%26aid%3DNDgyMjY1fDliMTY1NmFiMTg1NWU5NDkwZDM0YWI4NTgyYzdiMWQ2fDE0NDA0NjUwMzc%253D%26request%3Dyes%26_f%3D.mp3', 'width', '290', 'height', '24', 'allowNetworking', 'internal', 'allowScriptAccess', 'never', 'src', 'static/image/common/player.swf', 'quality', 'high', 'bgcolor', '#FFFFFF', 'menu', 'false', 'wmode', 'transparent', 'allowNetworking', 'internal');
+
+
+歌曲下载：
+
+
+
+
+
+
+
+
+
+
+
+
+家住临沂
+词曲：苗雨
+演唱：苗雨
+秋催落叶红,遥看夕阳坠.
+心儿与你飞呀飞 飞呀飞
+漫步沂河边 两岸景色美 
+梦里与你永相随永相随
+都说你的美景陶人醉陶人醉 
+都说蒙山姑娘多秀美 多秀美
+如果你要问我住哪里 
+这里的人们最善良 最通情达理 
+如果你要问我住哪里 
+我地那家乡就住在王羲之的故里临沂. 
+
+春来鸟儿鸣 花香沁心扉 
+暖风阵阵拂面吹 拂面吹 
+登上蒙山颠 俯瞰沂河水 
+家乡山河多壮美 多壮美 
+都说你的秀色令人醉 令人醉
+都说你的山高水又长 人更美
+如果你要问我住哪里 
+这里的煎饼香万里 香万里
+如果你要问我住哪里 
+我地那家乡就住在诸葛亮的故里临沂
+如果你要问我住哪里
+我可以高兴的带你去 
+如果你要问我住哪里 
+我地那家乡就住在王羲之的故里临沂
+我地那家乡就住在诸葛亮的故里临沂 
+
+
+陪陪老母亲
+词曲：苗雨
+演唱: 苗雨
+我的老母亲 我的老母亲
+为了儿女   一辈子艰辛
+儿女出远门 千叮万嘱咐
+冷暖苦乐   牵挂娘的心
+
+看着娘忙忙碌碌还惦记儿女们
+看着娘思儿的泪花期盼的眼神
+亲爱的娘啊    儿知道您孤单
+回家陪娘说说话 心中不苦闷
+
+
+我的老母亲 我的老母亲
+沧桑的脸上 写满了艰辛 
+岁月的年轮 催老娘的身
+受苦受累   儿知父母心 
+
+看着娘再好的饭菜您怎么咽不下
+看着娘瘦弱的身体  揪痛儿的心
+亲爱的娘啊      儿知道您为谁
+再忙也要先放下    陪陪老母亲
+
+亲爱的娘啊      儿知道您为谁
+再忙也要先放下    陪陪老母亲
+再忙也要先放下    陪陪老母亲
+http://img.langya.cn/forum/201412/09/151104p7szljlnsqdo7j7w.jpg
+
+http://player.youku.com/player.php/sid/XODQ0ODQ1MjY4.html/v.swf
+
+uname:一目万象
+sec:关注临沂
+ro:0
+uid:2479
+uid:198659
+text:哈哈哈哈~众众哥好拼，这一口标准的普通话说起来简直醉得人不省人事
+
+
+un:笫非胭lotus
+au:False
+time:2014-12-9 14:06:19
+ro:1418105179
+uid:210855
+text:记者眼神很销魂啊
+
+
+un:琅琊大仙
+au:False
+time:2014-12-9 14:10:28
+ro:1418105428
+uid:157
+text:
+
+
+un:沂河清风
+au:False
+time:2014-12-9 14:16:11
+ro:1418105771
+uid:194909
+text:哈哈，销魂的众哥
+
+
+un:七彩流苏儿
+au:False
+time:2014-12-9 15:04:59
+ro:1418108699
+uid:138795
+text:这是看上哪家姑娘了
+
+
+un:百斯特
+au:False
+time:2014-12-9 16:40:15
+ro:1418114415
+uid:56362
+text:这种采访方式，我有说不出的不得劲。
+
+
+un:冰果
+au:False
+time:2014-12-9 16:44:14
+ro:1418114654
+uid:5777
+text:
+
+
+un:爱家贝利
+au:False
+time:2014-12-9 16:44:47
+ro:1418114687
+uid:5777
+text:
+
+
+un:爱家贝利
+au:False
+time:2014-12-9 16:44:54
+ro:1418114694
+uid:76600
+text:实话不敢说
+
+
+un:潮退拾贝
+au:False
+time:2014-12-9 17:25:11
+ro:1418117111
+uid:249520
+text:盲目使用冷门词条的百科是大忌
+
+
+un:琅琊邢氏
+au:False
+time:2014-12-9 19:20:39
+ro:1418124039
+uid:16055
+text:
+
+
+un:老三
+au:False
+time:2014-12-9 20:11:57
+ro:1418127117
+uid:33162
+text:哈哈哈哈哈哈哈哈
+
+
+un:洪都刀客
+au:False
+time:2014-12-10 00:16:55
+ro:1418141815
+uid:19812
+text:主持人这次依然是纵*过度的样子
+
+
+un:多吃点
+au:False
+time:2014-12-10 07:44:58
+ro:1418168698
+uid:202496
+text:
+
+
+un:兰山不锈钢加工
+au:False
+time:2014-12-10 09:18:02
+ro:1418174282
+uid:226030
+text:
+
+
+un:迷恋光影
+au:False
+time:2014-12-10 10:15:09
+ro:1418177709
+uid:146956
+text:看的我也是醉了。。。。
+
+
+un:狗狗他娘
+au:False
+time:2014-12-10 12:22:06
+ro:1418185326
+uid:143329
+text:不是以前的样了
+
+
+un:子锐清风
+au:False
+time:2014-12-10 12:51:36
+ro:1418187096
+uid:567
+text:记者让人看着别扭！感觉记者的“范”比央视的海牛！换记者，恶心人！
+
+
+un:zhtz0919
+au:False
+time:2014-12-10 13:55:12
+ro:1418190912
+uid:139851
+text:苗雨的歌声很动听，俺听了好几年了非常喜欢，支持临沂本土歌手！
+
+
+un:李白天明
+au:False
+time:2014-12-10 15:02:04
+ro:1418194924
+uid:28851
+quote:冰果 发表于 2014-12-9 16:44
+这种采访方式，我有说不出的不得劲。
+time:2014-12-10 17:25:23
+un:1芈71·小葱白
+au:False
+text:略有同感
+
+
+ro:1418203523
+uid:25736
+text:
+
+
+un:8341
+au:False
+time:2014-12-10 20:36:53
+ro:1418215013
+uid:293
+quote:潮退拾贝 发表于 2014-12-9 17:25
+实话不敢说
+time:2014-12-10 22:07:27
+un:美本家
+au:False
+text:嗯嗯   好像没放开，很拿圈滴慌。
+
+
+ro:1418220447
+uid:293
+quote:多吃点 发表于 2014-12-10 07:44
+主持人这次依然是纵*过度的样子
+time:2014-12-10 22:07:54
+un:美本家
+au:False
+text:
+
+
+ro:1418220474
+uid:293
+text:1：俩大老爷们，好尴尬哦，放不开，眼睛没神，很不自然，好像是应付，生搬硬套的感觉，好别扭；
+2：苗老师说：唱歌献给临沂老乡..........临沂市民...................；主持人却一口一个，网友.......................，更多的网友........................，俺个人感觉：访谈的内题第三者不是一个主线；
+3：主持人的目光一直是斜视，不礼仪，不大器，点头摇肩膀，气场全部抖嗦没了；
+4：苗老师自始至终没敢正眼看看主持人.........................【俾人斗胆提议，希望能够接纳，请各位老师恕罪】
+
+
+un:美本家
+au:False
+time:2014-12-10 22:25:07
+ro:1418221507
+uid:76600
+quote:李白天明 发表于 2014-12-10 15:02
+苗雨的歌声很动听，俺听了好几年了非常喜欢，支持临沂本土歌手！{:409 ...
+time:2014-12-11 05:33:34
+un:潮退拾贝
+au:False
+text:一般不看选秀节目
+
+
+ro:1418247214
+uid:125087
+text:
+
+
+un:黑老
+au:False
+time:2014-12-11 08:18:51
+ro:1418257131
+uid:149903
+text:不错，我看过他的现场两次，好听，动情
+
+
+un:琅琊市民
+au:False
+time:2014-12-11 08:20:33
+ro:1418257233
+uid:254808
+text:
+
+
+un:晓东摄影
+au:False
+time:2015-5-11 14:50:17
+ro:1431327017

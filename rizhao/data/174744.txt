@@ -1,0 +1,23 @@
+174744
+PG:RC  1:1438864140
+ctime:2015-8-6 16:06
+title:伸向大海的排污口
+text:位于日照市国家森林公园大门口附近有三处污水排放口正在向海水浴场违法排放污水，致使海水浴场的海水受到污染游人无法洗浴望有关环保单位领导予以关注。
+data/attachment/forum/201508/06/160559gq91o0hrdf8v8g9p.jpg
+data/attachment/forum/201508/06/160603sgxwsgosgpwyxdpx.jpg
+data/attachment/forum/201508/06/160606um5omjdqvp68hdk6.jpg
+data/attachment/forum/201508/06/160610mzwdwzq0yyqwkswe.jpg
+
+
+uname:种下星星的日子
+sec:我爱日照
+ro:0
+uid:37351
+uid:http://bbs
+text:宣传国家森林公园的海边仅剩没有污染的地方，环保部门不能滞后啊。
+
+
+un:内蒙朋友
+au:False
+time:2015-8-6 20:29
+ro:1438864140

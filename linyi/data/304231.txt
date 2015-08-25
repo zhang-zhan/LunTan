@@ -1,0 +1,23 @@
+304231
+PG:RC  1:1430950993
+ctime:2015-5-3 08:13:55
+title:热烈祝贺东方老师获得临沂人网发帖状元
+text:转载东方老师的帖子：
+昨天竟以高出第二名五倍的优势夺得发贴状元
+
+http://bbs.linyiren.com/forum.php?mod=viewthread&tid=391540&fromuid=32094
+(出处: http://bbs.linyiren.com/)
+
+
+uname:cj095
+sec:灌水拉呱
+ro:0
+uid:4839
+uid:154
+text:
+
+
+un:神秘色彩
+au:False
+time:2015-5-7 06:23:13
+ro:1430950993

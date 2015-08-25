@@ -1,0 +1,88 @@
+308343
+PG:RC  1:1432281418
+ctime:2015-5-20 15:00:35
+title:感觉今年临沂的杨絮特别多
+text:吹面不寒杨柳风，春天是一年中最美好的季节。然而随着天气转暖，似乎是从进入五月份，咱们临沂城的街头巷尾就到处杨絮柳絮飞舞，犹如漫天飞雪，纷纷扬扬，让人苦不堪言。杨絮柳絮一般发生在春夏交替之际。我们看到的漫天飘飞的杨絮柳絮，实际是杨树和柳树的种子。这似雪非雪的毛毛，虽然好看，却给我们的生活带来了不少麻烦，为了挡住杨絮，很多行人不得不捂住口鼻赶路，还有不少人戴着墨镜、口罩，全副武装。
+http://img.langya.cn/forum/201505/20/145752hdaftmoncisaaimt.jpg.thumb.jpg
+http://img.langya.cn/forum/201505/20/145802cu25172c3xkihufi.jpg.thumb.jpg
+http://img.langya.cn/forum/201505/20/145813x0guqm20thacqoo6.jpg.thumb.jpg
+http://img.langya.cn/forum/201505/20/145823pr5l4kssxwlsrsln.jpg.thumb.jpg
+http://img.langya.cn/forum/201505/20/145833g310uffz3fxq4z17.jpg.thumb.jpg
+
+
+uname:老临沂
+sec:关注临沂
+ro:0
+uid:3152
+uid:226057
+text:也说明临沂的绿化好了。知足吧。你们在这小事上说多了，又要砍树了。
+
+
+un:夜雨寒窗
+au:False
+time:2015-5-20 15:05:48
+ro:1432105548
+uid:186649
+text:降解雾霾
+
+
+un:股神
+au:False
+time:2015-5-20 15:13:19
+ro:1432105999
+uid:86
+text:拿耙子搂搂，冬天做棉袄穿，做棉被盖！
+
+
+un:格桑梅朵
+au:False
+time:2015-5-20 16:15:33
+ro:1432109733
+uid:139845
+text:白毛毛太多了，时间太长了。
+
+
+un:运行之星
+au:False
+time:2015-5-20 19:02:15
+ro:1432119735
+uid:41335
+text:确实挺多的
+
+
+un:临沂巴黎春天
+au:False
+time:2015-5-21 14:12:57
+ro:1432188777
+uid:13587
+text:以后会更多的！河东区还要增加一大片杨树生态林... ...
+
+
+un:海歌18727
+au:False
+time:2015-5-21 15:47:31
+ro:1432194451
+uid:4570
+text:顾此失彼，就没有两全其美的法吗？多的是，
+
+
+un:一把刀
+au:False
+time:2015-5-21 16:01:56
+ro:1432195316
+uid:87714
+text:今年杨树、柳树集体发情啦吧
+
+
+un:AAA变变变
+au:False
+time:2015-5-21 17:08:49
+ro:1432199329
+uid:140190
+text:
+
+
+un:caleb12
+au:False
+time:2015-5-22 15:56:58
+ro:1432281418

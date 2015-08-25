@@ -1,0 +1,65 @@
+316145
+PG:RC  1:1435544953
+ctime:2015-6-28 07:17:28
+title:煤山农贸市场盛大开业了，买12元青菜送4个鸡蛋了！
+text:6月27日，煤山农贸市场盛大开业了，买12元青菜还送4个鸡蛋，周围的邻居们，你不来瞧瞧吗？
+http://img.langya.cn/forum/201506/28/071441vhdk65562bf7yknr.jpg.thumb.jpg
+http://img.langya.cn/forum/201506/28/071439n9cmymcmpfyx9xc8.jpg.thumb.jpg
+http://img.langya.cn/forum/201506/28/071440fzpiiqvdrlidsp84.jpg.thumb.jpg
+http://img.langya.cn/forum/201506/28/071442g5vak220kwwjjpca.jpg.thumb.jpg
+http://img.langya.cn/forum/201506/28/071441od9hm02e97l5lgph.jpg.thumb.jpg
+http://img.langya.cn/forum/201506/28/071442wtfkl5l4zlkvkbq3.jpg.thumb.jpg
+
+
+uname:沂河清风
+sec:关注临沂
+ro:0
+uid:157
+uid:19812
+text:太小气了，人家都是进店就送礼品。购物在加送，这个还要先消费在赠送
+
+
+un:多吃点
+au:False
+time:2015-6-28 07:31:19
+ro:1435447879
+uid:13587
+text:最近，送鸡蛋活动怪火，随处可见。
+
+
+un:海歌18727
+au:False
+time:2015-6-28 09:02:56
+ro:1435453376
+uid:10585
+text:这个市场亓不长。不信你瞧，顶多三个月就关门！！！！！！
+
+
+un:lc333302
+au:False
+time:2015-6-28 10:53:26
+ro:1435460006
+uid:193304
+text:
+
+
+un:夏之色
+au:False
+time:2015-6-29 08:21:46
+ro:1435537306
+uid:4767
+text:09年搬到三小这边 目睹了这几年滴变化
+
+
+un:超超
+au:False
+time:2015-6-29 10:00:01
+ro:1435543201
+uid:139845
+text:盛大开业，挺红火的！
+
+
+un:运行之星
+au:False
+time:2015-6-29 10:29:13
+ro:1435544953

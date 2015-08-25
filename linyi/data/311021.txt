@@ -1,0 +1,90 @@
+311021
+PG:RC  1:1433228357
+ctime:2015-6-2 07:43:57
+title:栈桥的渔家有收获··· ···
+text:海岸的渔家有收获··· ···
+
+        今早6时左右，在青岛栈桥，拍客看到有一渔家夫妇在从渔网上摘弄打捞上来的海货，海星、海蟹、大鱼、大婆虾、深海里动植物各型其色花样繁多，拍客询问这条大鱼，说是最低220就卖，哦，这价格还不菲呢，不过应该是刚打捞上来的吧？比海岸的、海货市场的新鲜一些？俺这旱地的农民看看这海上生活的老乡，还真是羡慕。
+http://img.langya.cn/forum/201506/02/074128zf55u5tt6o6uadc2.jpg.thumb.jpg
+http://img.langya.cn/forum/201506/02/074128iefbghnfrdzfnelb.jpg.thumb.jpg
+http://img.langya.cn/forum/201506/02/074128wfmmmwvbz3wgvzv7.jpg.thumb.jpg
+http://img.langya.cn/forum/201506/02/074129c16eog6gs6foa0oo.jpg.thumb.jpg
+http://img.langya.cn/forum/201506/02/074130w49t4c40c1xfd9f2.jpg.thumb.jpg
+http://img.langya.cn/forum/201506/02/074131cbkw6eu965iwub5b.jpg.thumb.jpg
+http://img.langya.cn/forum/201506/02/074132xaul01rstmrbirib.jpg.thumb.jpg
+http://img.langya.cn/forum/201506/02/074132jon5628z8soq7p1a.jpg.thumb.jpg
+http://img.langya.cn/forum/201506/02/074134xd7w3bqiw2dd2w73.jpg.thumb.jpg
+http://img.langya.cn/forum/201506/02/074135csn7tvyaavoijc7y.jpg.thumb.jpg
+http://img.langya.cn/forum/201506/02/074136fglvgoh0urku01vo.jpg.thumb.jpg
+http://img.langya.cn/forum/201506/02/074135fcztuu0f0xgmexjc.jpg.thumb.jpg
+
+
+uname:美本家
+sec:关注临沂
+ro:0
+uid:293
+uid:19812
+text:220，真敢开口！！！
+
+
+un:多吃点
+au:False
+time:2015-6-2 08:02:15
+ro:1433203335
+uid:22691
+text:下婆不错
+
+
+un:千里之行
+au:False
+time:2015-6-2 08:07:45
+ro:1433203665
+uid:191395
+text:都说山东人实在
+
+
+un:上善-若水
+au:False
+time:2015-6-2 08:08:52
+ro:1433203732
+uid:66904
+text:那么大的鱼,用个轮胎能打上来?
+不会是那嗄哒的渔民吧?
+
+
+un:结余
+au:False
+time:2015-6-2 08:10:46
+ro:1433203846
+uid:4570
+text:钓鱼的，谁是鱼？
+
+
+un:一把刀
+au:False
+time:2015-6-2 08:55:17
+ro:1433206517
+uid:226030
+text:
+
+
+un:迷恋光影
+au:False
+time:2015-6-2 08:59:11
+ro:1433206751
+uid:4206
+text:
+
+
+un:琅琊山人
+au:False
+time:2015-6-2 11:30:57
+ro:1433215857
+uid:41335
+text:收获不错啊
+
+
+un:临沂巴黎春天
+au:False
+time:2015-6-2 14:59:17
+ro:1433228357

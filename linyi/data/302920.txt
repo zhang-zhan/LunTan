@@ -1,0 +1,43 @@
+302920
+PG:RC  1:1431326834
+ctime:2015-4-26 23:24:27
+title:2015“新洁环保”杯临超联赛开赛
+text:4月25日。由临沂市市兰山区足球协会、鲁南商报共同主办的2015（首届）临甲联赛在临沂三中拉开帷幕，此次比赛共22支参赛球队队员列队参加，兰山区政协副主席强军同志出席并致辞，临沂市体育总会常务副会长李宏同志和兰山区体育工作办公室主任、兰山区体育总会会长付常明同志出席。
+http://img.langya.cn/forum/201504/26/231617mcm45auaomrcz5rm.jpg.thumb.jpg
+http://img.langya.cn/forum/201504/26/231627h11pfdezpx4und4p.jpg.thumb.jpg
+http://img.langya.cn/forum/201504/26/231624rzzv0803d0vr1dz3.jpg.thumb.jpg
+http://img.langya.cn/forum/201504/26/231638wr5e9warfrlrcczg.jpg.thumb.jpg
+http://img.langya.cn/forum/201504/26/231644y1t9trpd2aap9l6p.jpg.thumb.jpg
+http://img.langya.cn/forum/201504/26/231651u8vszvgg2lz9nj58.jpg.thumb.jpg
+http://img.langya.cn/forum/201504/26/231657kkivm9gj5mkq0qke.jpg.thumb.jpg
+http://img.langya.cn/forum/201504/26/231702yzzzkir324gg3bz2.jpg.thumb.jpg
+
+
+uname:沂蒙老汉
+sec:关注临沂
+ro:0
+uid:5267
+uid:157
+text:
+
+
+un:沂河清风
+au:False
+time:2015-4-26 23:51:26
+ro:1430063486
+uid:19812
+text:优中选优最后选出最好的球员，临沂本土企业在出资组建临沂自己的球队，最起码让山东球队三足鼎立
+
+
+un:多吃点
+au:False
+time:2015-4-27 08:05:09
+ro:1430093109
+uid:254808
+text:
+
+
+un:晓东摄影
+au:False
+time:2015-5-11 14:47:14
+ro:1431326834

@@ -1,0 +1,43 @@
+315619
+PG:RC  1:1435234923
+ctime:2015-6-25 11:14:14
+title:爱心速传：怎么拯救这小燕子···
+text:网友问：羽毛未全的小雏燕掉下来了，咋办？
+
+          刚才山东莒县网友“升级版”发图片给拍客，问我羽毛未全的小雏燕掉下来了，自己在家，雨下得好大，不能出门喊邻居，天气又冷，看着软骨哝哝的小家伙很可怜，还不敢用手去碰触，咋办？大家赶紧给想法子啊，不能让这小生命冻坏了··· ···
+http://img.langya.cn/forum/201506/25/111253p922i2txax3t9aqt.png.thumb.jpg
+http://img.langya.cn/forum/201506/25/111252ne5ssf2x2eeq2vws.jpg.thumb.jpg
+http://img.langya.cn/forum/201506/25/111251na5mremh00gypp0a.jpg.thumb.jpg
+http://img.langya.cn/forum/201506/25/111251gdy3v66isjq7uvgg.jpg.thumb.jpg
+http://img.langya.cn/forum/201506/25/111252n2fhphizrwl5q5a2.jpg.thumb.jpg
+http://img.langya.cn/forum/201506/25/111250cwwe1fuyrfmywkvl.jpg.thumb.jpg
+
+
+uname:美本家
+sec:关注临沂
+ro:0
+uid:293
+uid:5381
+text:先放屋里，再找梯子送回巢内。
+
+
+un:子叶
+au:False
+time:2015-6-25 11:25:42
+ro:1435202742
+uid:41335
+text:先放屋里，再找梯子送回巢内。
+
+
+un:临沂巴黎春天
+au:False
+time:2015-6-25 17:30:06
+ro:1435224606
+uid:19812
+text:紫薇，金锁，快叫五阿哥
+
+
+un:多吃点
+au:False
+time:2015-6-25 20:22:03
+ro:1435234923

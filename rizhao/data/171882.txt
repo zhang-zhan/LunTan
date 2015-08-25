@@ -1,0 +1,21 @@
+171882
+PG:RC  1:1435992480
+ctime:2015-6-29 15:06
+title:强拆事件
+text:没有给个说法强拆住了20多年的地方，这个社会还有没有王法？
+data/attachment/forum/201506/29/150655fc111a5208a4ca1c.jpg
+
+
+uname:好吧真是的
+sec:我爱日照
+ro:0
+uid:46072
+uid:http://bbs
+text:
+data/attachment/forum/201507/04/144843x866t4268a846waa.jpg
+
+
+un:气正则心齐
+au:False
+time:2015-7-4 14:48
+ro:1435992480

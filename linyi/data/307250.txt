@@ -1,0 +1,213 @@
+307250
+PG:RC  2:1432023238
+ctime:2015-5-16 14:24:17
+title:临西五路再铺上一层沥青  就开始划交通标线了
+text:
+http://img.langya.cn/forum/201505/16/142355bnzbk1jkg4wd04j9.jpg.thumb.jpg
+http://img.langya.cn/forum/201505/16/142356ocsyfm55sf5qxcwq.jpg.thumb.jpg
+http://img.langya.cn/forum/201505/16/142356ddooo19zoodqoed0.jpg.thumb.jpg
+http://img.langya.cn/forum/201505/16/142356nznu27pskan37gzu.jpg.thumb.jpg
+http://img.langya.cn/forum/201505/16/142356kqylsd2u7tuu2yud.jpg.thumb.jpg
+http://img.langya.cn/forum/201505/16/142357c7tcii7hjsj8w0jc.jpg.thumb.jpg
+http://img.langya.cn/forum/201505/16/142357kjtbsl2delebekfq.jpg.thumb.jpg
+http://img.langya.cn/forum/201505/16/142358xjiei99tza8u8439.jpg.thumb.jpg
+http://img.langya.cn/forum/201505/16/142358s388n1nl9kzk8d99.jpg.thumb.jpg
+http://img.langya.cn/forum/201505/16/142358qhhzdgxexggeud7x.jpg.thumb.jpg
+
+
+uname:酷瞎子
+sec:关注临沂
+ro:0
+uid:9437
+uid:146454
+text:漂亮，月底桥下走没问题了
+
+
+un:盦琪
+au:False
+time:2015-5-16 14:49:17
+ro:1431758957
+uid:407405
+text:看着很清新
+通车的倒计时很近了
+
+
+un:怕瓦落地
+au:False
+time:2015-5-16 14:52:47
+ro:1431759167
+uid:9437
+quote:盦琪 发表于 2015-5-16 14:49
+漂亮，月底桥下走没问题了
+time:2015-5-16 14:52:56
+un:酷瞎子
+au:True
+text:非机动车道完成度低不少
+
+
+ro:1431759176
+uid:13587
+text:咋回事，怎么有的路段有公交专用道，有的没有？
+
+
+un:海歌18727
+au:False
+time:2015-5-16 14:56:26
+ro:1431759386
+uid:189258
+text:公交站牌在哪里？
+
+
+un:风中落落
+au:False
+time:2015-5-16 15:05:24
+ro:1431759924
+uid:148715
+text:希望尽快把路标路牌安装到位，不然就咱们这开车素质，还不得乱成一锅粥
+
+
+un:超级引擎
+au:False
+time:2015-5-16 17:20:24
+ro:1431768024
+uid:145130
+text:倒计时啊。我能利用上高架路
+
+
+un:冰咖啡
+au:False
+time:2015-5-16 18:32:13
+ro:1431772333
+uid:143784
+text:肯定是七一通车了
+
+
+un:想上网的鱼
+au:False
+time:2015-5-16 19:03:44
+ro:1431774224
+uid:249520
+text:
+
+
+un:琅琊邢氏
+au:False
+time:2015-5-16 19:38:51
+ro:1431776331
+uid:143482
+quote:海歌18727 发表于 2015-5-16 14:56
+咋回事，怎么有的路段有公交专用道，有的没有？
+time:2015-5-16 21:58:33
+un:Vulcano
+au:False
+text:有可能是 有匝道的路段在匝道之外
+
+
+ro:1431784713
+uid:180527
+text:哇，好美，只不过路两边的建筑真的逊色
+
+
+un:荒野の無法者
+au:False
+time:2015-5-16 22:20:59
+ro:1431786059
+uid:9437
+quote:荒野の無法者 发表于 2015-5-16 22:20
+哇，好美，只不过路两边的建筑真的逊色
+time:2015-5-17 00:41:20
+un:酷瞎子
+au:True
+text:两年多了  没倒闭就不错了
+
+
+ro:1431794480
+uid:13587
+quote:Vulcano 发表于 2015-5-16 21:58
+有可能是 有匝道的路段在匝道之外
+time:2015-5-17 07:44:11
+un:海歌18727
+au:False
+text: 本帖最后由 海歌18727 于 2015-5-17 07:46 编辑 
+
+或许吧。
+
+不过，从这张图来看，公交专用道并没有向外侧转弯的迹象，而中间的车道却转弯了。
+我怀疑，临沂别搞出一个半吊子，平常路段是专用道，到路口就“各回各家”，反而没有专用道了... ...
+
+
+ro:1431819851
+uid:251976
+text:市区很多道路中间都有井盖，不晓得为什么要设在路中间呢？
+
+
+un:汉科科技
+au:False
+time:2015-5-17 11:13:55
+ro:1431832435
+uid:143482
+quote:海歌18727 发表于 2015-5-17 07:44
+或许吧。
+
+不过，从这张图来看，公交专用道并没有向外侧转弯的迹象，而中间的车道却转弯了。
+time:2015-5-17 13:03:06
+un:Vulcano
+au:False
+text:没看错的话这段前面正好就是匝道的吧
+正好从黄色X区域右转到外面了
+
+
+ro:1431838986
+uid:13587
+quote:Vulcano 发表于 2015-5-17 13:03
+没看错的话这段前面正好就是匝道的吧
+正好从黄色X区域右转到外面了
+time:2015-5-17 13:32:42
+un:海歌18727
+au:False
+text:希望是如此。
+
+
+ro:1431840762
+uid:16831
+text:
+
+
+un:fzzhou
+au:False
+time:2015-5-18 09:14:02
+ro:1431911642
+uid:74129
+text:
+
+
+un:ys2046
+au:False
+time:2015-5-18 11:23:17
+ro:1431919397
+uid:264581
+text:
+
+
+un:临沂新庆余堂
+au:False
+time:2015-5-18 23:14:22
+ro:1431962062
+uid:147479
+text:都很期待
+
+
+un:风轻飏
+au:False
+time:2015-5-19 10:38:44
+ro:1432003124
+uid:180527
+quote:酷瞎子 发表于 2015-5-17 00:41
+两年多了  没倒闭就不错了
+time:2015-5-19 16:13:58
+un:荒野の無法者
+au:False
+text:觉得，太平洋国际广场没建成，是挺可惜的
+
+
+ro:1432023238

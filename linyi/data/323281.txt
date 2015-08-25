@@ -1,0 +1,55 @@
+323281
+PG:RC  1:1438327372
+ctime:2015-7-31 11:19:28
+title:网爆蒙阴遭遇冰雹   农作物损失严重
+text:   据网友@ 期如人生-凡生反映：昨天蒙阴岱崮笊篱坪，突降严重的冰雹，作为山东蜜桃的产生果农损失惨重，一年的收成几乎成零。几乎所有的桃子都被毁了。
+http://img.langya.cn/forum/201507/31/111754kxa6wo21kiuuzcbi.jpg.thumb.jpg
+http://img.langya.cn/forum/201507/31/111905lwzpttqthtqvdh0k.jpg.thumb.jpg
+http://img.langya.cn/forum/201507/31/111914vlxpxpmlbamtmm01.jpg.thumb.jpg
+http://img.langya.cn/forum/201507/31/111921f99cu27792rktmvd.jpg.thumb.jpg
+
+
+uname:法号野合
+sec:关注临沂
+ro:0
+uid:125853
+uid:199966
+text:真实天灾呀
+
+
+un:gradxia
+au:False
+time:2015-7-31 11:44:15
+ro:1438314255
+uid:4570
+text:昨晚就被暴风雨担心的没睡好
+
+
+un:一把刀
+au:False
+time:2015-7-31 12:47:02
+ro:1438318022
+uid:54281
+text:这么厉害
+
+
+un:汀浯居士
+au:False
+time:2015-7-31 13:14:49
+ro:1438319689
+uid:232854
+text:
+
+
+un:东山猎人
+au:False
+time:2015-7-31 14:08:08
+ro:1438322888
+uid:19302
+text:
+
+
+un:悠悠2011
+au:False
+time:2015-7-31 15:22:52
+ro:1438327372

@@ -1,0 +1,22 @@
+224796
+PG:RC  1:1436093636
+ctime:2013-12-27 16:32:45
+title:尽孝道
+text:天地重孝孝当先，
+　　一个孝字全家安,
+　　为人需当孝父母。
+http://img.langya.cn/forum/201312/27/163038gryj90u0kdadk76r.jpg.thumb.jpg
+
+
+uname:qingqing
+sec:关注临沂
+ro:0
+uid:149014
+uid:254808
+text:
+
+
+un:晓东摄影
+au:False
+time:2015-7-5 18:53:56
+ro:1436093636

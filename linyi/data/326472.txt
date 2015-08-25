@@ -1,0 +1,172 @@
+326472
+PG:RC  2:1439891738
+ctime:2015-8-14 08:57:27
+title:临沂危险品化工企业名单 看看你家附近有木有
+text:百度搜索化工，妈的，吓死爹了，这么多化工相关的企业都在市区啊，感觉好危险。
+http://img.langya.cn/forum/201508/14/085946irjeppsn7pxjtpo7.jpg.thumb.jpg
+http://img.langya.cn/forum/201508/14/085650alfb4lftzqsqgxbt.jpg.thumb.jpg
+http://img.langya.cn/forum/201508/14/085651mn5k999pxnpk5xzr.jpg.thumb.jpg
+http://img.langya.cn/forum/201508/14/085651o7pk68m5y6jx5xbm.jpg.thumb.jpg
+http://img.langya.cn/forum/201508/14/085651lkuv08lun8uv8v1h.jpg.thumb.jpg
+http://img.langya.cn/forum/201508/14/085652sdie8kkhzhnqx2kt.jpg.thumb.jpg
+http://img.langya.cn/forum/201508/14/085652df11he8po8eo2zew.jpg.thumb.jpg
+http://img.langya.cn/forum/201508/14/085652i97873uop80wtnlm.jpg.thumb.jpg
+http://img.langya.cn/forum/201508/14/085653ya55ap5iaa5ggm53.jpg.thumb.jpg
+http://img.langya.cn/forum/201508/14/085653qzzf2xilnzllt7fp.jpg.thumb.jpg
+http://img.langya.cn/forum/201508/14/085653p9v0f3ukzdqkq9i5.jpg.thumb.jpg
+http://img.langya.cn/forum/201508/14/085653rd16p5aeaq6udpqz.jpg.thumb.jpg
+http://img.langya.cn/forum/201508/14/085654bnahwvtmaa2spaa7.jpg.thumb.jpg
+http://img.langya.cn/forum/201508/14/085654xnmua0mwknm7stnv.jpg.thumb.jpg
+http://img.langya.cn/forum/201508/14/085654go1aaioalio8c7bi.jpg.thumb.jpg
+
+
+uname:临沂半仙
+sec:关注临沂
+ro:0
+uid:452
+uid:138795
+text:俺住郊区  从图上看 没有 
+
+
+un:百斯特
+au:False
+time:2015-8-14 09:05:41
+ro:1439514341
+uid:5834
+text:还好  木有
+
+
+un:依晨
+au:False
+time:2015-8-14 09:27:33
+ro:1439515653
+uid:5153
+text:消防八一刚过完不久，收了很多很多过节企业强制慰问金，还查个屁
+
+
+un:piaoboo
+au:False
+time:2015-8-14 09:40:07
+ro:1439516407
+uid:288858
+text:污染企业都开工了，风声一过又回到原来的样子了
+
+
+un:永远爱你
+au:False
+time:2015-8-14 10:09:00
+ro:1439518140
+uid:362895
+text:
+
+
+un:1647827674
+au:False
+time:2015-8-14 10:14:21
+ro:1439518461
+uid:74129
+text:核心区没有，顶多有加油站，郊区应该有仓库
+
+
+un:ys2046
+au:False
+time:2015-8-14 10:27:44
+ro:1439519264
+uid:75885
+text:
+
+
+un:土豆
+au:False
+time:2015-8-14 11:15:46
+ro:1439522146
+uid:457003
+text:如不严加管理，这些地点都存在危险的可能！
+
+
+un:出海
+au:False
+time:2015-8-14 11:35:43
+ro:1439523343
+uid:54281
+text:
+
+
+un:汀浯居士
+au:False
+time:2015-8-14 12:28:54
+ro:1439526534
+uid:41335
+text:支持分享
+
+
+un:临沂巴黎春天
+au:False
+time:2015-8-14 15:21:37
+ro:1439536897
+uid:275242
+text:有危化品的地方，智者千虑，必有一失。
+
+
+un:杨家沟人
+au:False
+time:2015-8-14 18:01:29
+ro:1439546489
+uid:4206
+text:
+
+
+un:琅琊山人
+au:False
+time:2015-8-14 18:43:52
+ro:1439549032
+uid:3357
+text:河东区有两个油库
+
+
+un:ggd_2003
+au:False
+time:2015-8-14 19:23:03
+ro:1439551383
+uid:4570
+text:吓人
+
+
+un:一把刀
+au:False
+time:2015-8-14 19:37:04
+ro:1439552224
+uid:249474
+text:我家距离红日阿康化工厂200米左右，你说吓人吧
+
+
+un:双鱼泪
+au:False
+time:2015-8-14 20:49:54
+ro:1439556594
+uid:202496
+text:随时炸弹注意啦
+
+
+un:兰山不锈钢加工
+au:False
+time:2015-8-17 19:43:51
+ro:1439811831
+uid:452
+quote:双鱼泪 发表于 2015-8-14 20:49
+我家距离红日阿康化工厂200米左右，你说吓人吧
+time:2015-8-18 10:34:26
+un:临沂半仙
+au:False
+text:还不赶快打12345举报
+
+
+ro:1439865266
+uid:370031
+text:这么多看不过来，密密麻麻的，身边的隐形炸弹呢
+
+
+un:linyick
+au:False
+time:2015-8-18 17:55:38
+ro:1439891738

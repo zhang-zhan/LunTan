@@ -1,0 +1,69 @@
+310842
+PG:RC  1:1433142948
+ctime:2015-6-1 10:05:07
+title:照了几张孩子们做的
+text:职业院校烹饪专业比赛
+http://img.langya.cn/forum/201506/01/100453zl5jjt3ozebosoxq.jpg.thumb.jpg
+http://img.langya.cn/forum/201506/01/100457api04azy70s6suxa.jpg.thumb.jpg
+http://img.langya.cn/forum/201506/01/100501qegrg8xr5tggrwg7.jpg.thumb.jpg
+
+
+uname:屋檐下的冰凌
+sec:关注临沂
+ro:0
+uid:95
+uid:138795
+text: 本帖最后由 百斯特 于 2015-6-1 10:12 编辑 
+
+没有恶意   做得很精美  
+
+
+un:百斯特
+au:False
+time:2015-6-1 10:06:17
+ro:1433124377
+uid:95
+text: 本帖最后由 屋檐下的冰凌 于 2015-6-1 10:16 编辑 
+
+
+谢谢
+
+
+un:屋檐下的冰凌
+au:True
+time:2015-6-1 10:09:02
+ro:1433124542
+uid:358944
+text:怎么精美……怎舍得吃掉……来自: 微社区
+
+
+un:狗狗他妈
+au:False
+time:2015-6-1 10:10:14
+ro:1433124614
+uid:95
+quote:百斯特 发表于 2015-6-1 10:06
+没有恶意   做得很精美
+time:2015-6-1 10:15:29
+un:屋檐下的冰凌
+au:True
+text:谢谢老板
+
+
+ro:1433124929
+uid:12944
+text:我觉得那个蝉最有意思。。。。
+
+
+un:焱焱焱
+au:False
+time:2015-6-1 10:16:02
+ro:1433124962
+uid:41335
+text:好漂亮啊哈哈
+
+
+un:临沂巴黎春天
+au:False
+time:2015-6-1 15:15:48
+ro:1433142948

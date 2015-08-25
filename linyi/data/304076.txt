@@ -1,0 +1,104 @@
+304076
+PG:RC  1:1431207752
+ctime:2015-5-2 08:13:42
+title:饕餮大宴音乐盛会··· ···
+text:     应临沂二小邀请，北京第二十七中学“金帆民乐团”与临沂二小联手在临沂大剧院举办的"手拉手相约沂蒙·心连心齐奏国乐"手拉手音乐会现场！太美了！确实是民族音乐享受的饕餮大宴-----——。
+http://img.langya.cn/forum/201505/02/081200oizjj1cjloipjf1p.jpg.thumb.jpg
+http://img.langya.cn/forum/201505/02/081200r5vmr5l6s8o5v4sk.jpg.thumb.jpg
+http://img.langya.cn/forum/201505/02/081200ginaht0u10afg1vv.jpg.thumb.jpg
+http://img.langya.cn/forum/201505/02/081201spv6fl46apa1i612.jpg.thumb.jpg
+http://img.langya.cn/forum/201505/02/081201c4l6a3938sl6vtee.jpg.thumb.jpg
+http://img.langya.cn/forum/201505/02/081204eg8z5ddinqm5mqbl.jpg.thumb.jpg
+http://img.langya.cn/forum/201505/02/081202e9an51oubeknhjnb.jpg.thumb.jpg
+http://img.langya.cn/forum/201505/02/081204wtpuko1nt6lunogz.jpg.thumb.jpg
+http://img.langya.cn/forum/201505/02/081204mkzv8u7maazaypmk.jpg.thumb.jpg
+http://img.langya.cn/forum/201505/02/081205v2jvhaazxohxzkag.jpg.thumb.jpg
+http://img.langya.cn/forum/201505/02/081206n6lzdwdcdun6z6dw.jpg.thumb.jpg
+
+
+uname:美本家
+sec:关注临沂
+ro:0
+uid:293
+uid:138795
+text:
+
+
+un:百斯特
+au:False
+time:2015-5-2 09:37:15
+ro:1430530635
+uid:6930
+text:可惜了，孩子自作决定没去。
+
+
+un:司马长风
+au:False
+time:2015-5-2 09:50:41
+ro:1430531441
+uid:293
+quote:司马长风 发表于 2015-5-2 09:50
+可惜了，孩子自作决定没去。
+time:2015-5-2 10:15:19
+un:美本家
+au:True
+text:哦哦   应该去听听的，毕竟是现场的。
+
+
+ro:1430532919
+uid:10739
+text:
+
+
+un:火热的冰
+au:False
+time:2015-5-2 10:36:02
+ro:1430534162
+uid:23394
+text:新星在冉冉升起。。。。。
+
+
+un:月照蝶舞
+au:False
+time:2015-5-2 12:01:09
+ro:1430539269
+uid:76600
+text:要是燕守平来临沂，去现场绝对过瘾来自: Android客户端
+
+
+un:潮退拾贝
+au:False
+time:2015-5-2 13:34:45
+ro:1430544885
+uid:192023
+text:
+
+
+un:夏天有小雨
+au:False
+time:2015-5-2 16:48:43
+ro:1430556523
+uid:154
+text:好事情！普及国乐，传承文化！
+
+
+un:神秘色彩
+au:False
+time:2015-5-3 06:18:28
+ro:1430605108
+uid:19812
+text:有没有奏响沂蒙山小调
+
+
+un:多吃点
+au:False
+time:2015-5-3 07:55:48
+ro:1430610948
+uid:254808
+text:
+
+
+un:晓东摄影
+au:False
+time:2015-5-10 05:42:32
+ro:1431207752

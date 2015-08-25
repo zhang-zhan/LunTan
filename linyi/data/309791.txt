@@ -1,0 +1,40 @@
+309791
+PG:RC  1:1435462173
+ctime:2015-5-26 14:47:00
+title:2015年临沂市职业院校技能大赛照了几张照片
+text:昨天开始
+明天在兰山职业中专有比赛的，欢迎大家观摩，不过有些赛场不能进去，有的可以
+http://img.langya.cn/forum/201505/26/144637kvcwkz0wvec0z0x7.jpg.thumb.jpg
+http://img.langya.cn/forum/201505/26/144641xd88xspfyk4k6yq5.jpg.thumb.jpg
+http://img.langya.cn/forum/201505/26/144646t3h03ynaakda3j37.jpg.thumb.jpg
+http://img.langya.cn/forum/201505/26/144650wqqgqfywqgkzqqwg.jpg.thumb.jpg
+
+
+uname:屋檐下的冰凌
+sec:关注临沂
+ro:0
+uid:95
+uid:1758
+text:
+
+
+un:西雪清河
+au:False
+time:2015-5-26 19:37:02
+ro:1432640222
+uid:19812
+text:俺也想学门手艺，不知道这奔三的年纪学校还收不！总不能大老远的去蓝翔吧
+
+
+un:多吃点
+au:False
+time:2015-5-27 07:28:03
+ro:1432682883
+uid:412084
+text:
+
+
+un:oliver2100
+au:False
+time:2015-6-28 11:29:33
+ro:1435462173

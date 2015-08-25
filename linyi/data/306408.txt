@@ -1,0 +1,94 @@
+306408
+PG:RC  1:1439005654
+ctime:2015-5-12 19:29:37
+title:这是什么动物啊
+text:不知道什么虫子，也不像蚊子，在阳光下，聚集一起，舞蹈么，开会么，不知道是什么动物呢。
+http://img.langya.cn/forum/201505/12/192925aezt11dy1pzfzpaw.jpg.thumb.jpg
+http://img.langya.cn/forum/201505/12/192928hquq6b6q6cfyvc7q.jpg.thumb.jpg
+http://img.langya.cn/forum/201505/12/192932ay5cljycwla776zl.jpg.thumb.jpg
+
+
+uname:屋檐下的冰凌
+sec:关注临沂
+ro:0
+uid:95
+uid:13587
+text:可怕！疑似新物种入侵... ...
+
+
+un:海歌18727
+au:False
+time:2015-5-12 20:28:21
+ro:1431433701
+uid:141444
+text:好可怕！
+
+
+un:闪中飞
+au:False
+time:2015-5-12 20:51:09
+ro:1431435069
+uid:226030
+text:消灭。
+
+
+un:迷恋光影
+au:False
+time:2015-5-12 21:44:09
+ro:1431438249
+uid:19812
+text:看着有点犯恶心
+
+
+un:多吃点
+au:False
+time:2015-5-13 08:05:32
+ro:1431475532
+uid:74129
+text:蚍蜉？
+
+
+un:ys2046
+au:False
+time:2015-5-13 10:40:19
+ro:1431484819
+uid:5381
+text:我们叫 奈子 要是附近有晾晒的黄色或者白色的衣服，会全部据在上面。
+
+
+un:子叶
+au:False
+time:2015-5-13 11:26:45
+ro:1431487605
+uid:412342
+text:队伍够大的，杀，杀，杀。
+
+
+un:厨子
+au:False
+time:2015-5-13 13:04:04
+ro:1431493444
+uid:41335
+text:好可怕的感觉
+
+
+un:临沂巴黎春天
+au:False
+time:2015-5-13 16:05:40
+ro:1431504340
+uid:20006
+text:益虫？害虫？
+
+
+un:浪子韩柏
+au:False
+time:2015-5-13 17:31:35
+ro:1431509495
+uid:232854
+text:好像白粉虱，害虫。在交配时聚在一起成群。
+
+
+un:东山猎人
+au:False
+time:2015-8-8 11:47:34
+ro:1439005654

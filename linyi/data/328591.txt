@@ -1,0 +1,65 @@
+328591
+PG:RC  1:1440386220
+ctime:2015-8-24 10:25:50
+title:市民热线12345收取市话费吗
+text:打市民热线12345，收市话费吗
+
+
+uname:Andy_Young
+sec:关注临沂
+ro:0
+uid:190403
+uid:26880
+text:操蛋的12345，
+
+
+un:这都不叫事
+au:False
+time:2015-8-24 10:53:35
+ro:1440384815
+uid:200566
+text:市话费
+
+
+un:热爱临沂
+au:False
+time:2015-8-24 10:55:53
+ro:1440384953
+uid:190403
+quote:热爱临沂 发表于 2015-8-24 10:55
+市话费
+time:2015-8-24 11:01:03
+un:Andy_Young
+au:True
+text:好的，谢谢
+
+
+ro:1440385263
+uid:190403
+quote:这都不叫事 发表于 2015-8-24 10:53
+操蛋的12345，
+time:2015-8-24 11:05:41
+un:Andy_Young
+au:True
+text:怎么
+
+
+ro:1440385541
+uid:26880
+text:http://bbs.langya.cn/t328602-1-1.html
+
+
+un:这都不叫事
+au:False
+time:2015-8-24 11:15:08
+ro:1440386108
+uid:200566
+quote:Andy_Young 发表于 2015-8-24 11:01
+好的，谢谢
+time:2015-8-24 11:17:00
+un:热爱临沂
+au:False
+text:不客气
+
+
+ro:1440386220

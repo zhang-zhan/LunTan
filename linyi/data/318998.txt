@@ -1,0 +1,62 @@
+318998
+PG:RC  1:1436750756
+ctime:2015-7-12 11:16:43
+title:九中学校的小学要用了吗？
+text:临沂九中学校东，正在维修人行道，看着紧张忙碌的，是不是开学后这个小学要用了？？
+http://img.langya.cn/forum/201507/12/111536zg2oeefqefq03fff.jpg.thumb.jpg
+http://img.langya.cn/forum/201507/12/111536h8cz6co2ud56yz5s.jpg.thumb.jpg
+http://img.langya.cn/forum/201507/12/111535awwgdgdzj4wd35r6.jpg.thumb.jpg
+http://img.langya.cn/forum/201507/12/111535oejeo3mxse5usvxe.jpg.thumb.jpg
+http://img.langya.cn/forum/201507/12/111535kvxddkna6vvfk7a3.jpg.thumb.jpg
+http://img.langya.cn/forum/201507/12/111534md2z9d9d9lzcdndq.jpg.thumb.jpg
+http://img.langya.cn/forum/201507/12/111534kju7uu79fz87fl83.jpg.thumb.jpg
+
+
+uname:美本家
+sec:关注临沂
+ro:0
+uid:293
+uid:9437
+text:只是最近创城吧
+
+
+un:酷瞎子
+au:False
+time:2015-7-12 11:55:58
+ro:1436673358
+uid:22982
+text:九中是初中吧
+
+
+un:韭菜炒鸡蛋
+au:False
+time:2015-7-12 14:52:55
+ro:1436683975
+uid:19812
+quote:酷瞎子 发表于 2015-7-12 11:55
+只是最近创城吧
+time:2015-7-13 07:34:04
+un:多吃点
+au:False
+text:创城还没结束吗？
+
+
+ro:1436744044
+uid:9437
+quote:多吃点 发表于 2015-7-13 07:34
+创城还没结束吗？
+time:2015-7-13 08:34:11
+un:酷瞎子
+au:False
+text:应该是这样 前几天俺庄上路边私搭乱建的棚子全被拆了  庄里面所有能看见土的地方全部给平了打水泥地面 正在进行中
+
+
+ro:1436747651
+uid:5834
+text:东边变成小学了么？
+
+
+un:依晨
+au:False
+time:2015-7-13 09:25:56
+ro:1436750756

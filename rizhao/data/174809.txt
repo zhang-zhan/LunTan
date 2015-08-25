@@ -1,0 +1,19 @@
+174809
+PG:RC  1:0
+ctime:2015-8-7 10:53
+title:捡到车牌了
+text:在莒国大饭店文街这边捡到一车牌鲁B.A090N
+data/attachment/forum/201508/07/105228ypwpmpupzp5ipf6i.jpg
+data/attachment/forum/201508/07/105232r4z27nlk22epx2p4.jpg
+data/attachment/forum/201508/07/105235jnypyczzohnkn8zy.jpg
+data/attachment/forum/201508/07/105238urhmpz41922vw3vn.jpg
+data/attachment/forum/201508/07/105243xhhem46x57hm5h5z.jpg
+data/attachment/forum/201508/07/105250iwgh0vtsrr9ggtiw.jpg
+data/attachment/forum/201508/07/105255ckk5nd1s7kqcssec.jpg
+data/attachment/forum/201508/07/105301nz7u8sbkbdz9a3bz.jpg
+
+
+uname:冰柠檬
+sec:我爱日照
+ro:0
+uid:45912

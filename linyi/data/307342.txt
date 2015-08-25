@@ -1,0 +1,37 @@
+307342
+PG:RC  1:1431857805
+ctime:2015-5-16 21:41:57
+title:这种人脸皮是有多厚？  我觉得我是不会好意思这么停车的
+text:在路口就这么停下  下车去买东西去了
+http://img.langya.cn/forum/201505/16/214130mw59fy1zxi595nzu.jpg.thumb.jpg
+http://img.langya.cn/forum/201505/16/214133w19l6cihzhq0106h.jpg.thumb.jpg
+
+
+uname:酷瞎子
+sec:关注临沂
+ro:0
+uid:9437
+uid:6930
+text:只看到开远光的SB。
+
+
+un:司马长风
+au:False
+time:2015-5-17 11:27:35
+ro:1431833255
+uid:370031
+text:同意2楼的，只看到了开远光的**
+
+
+un:linyick
+au:False
+time:2015-5-17 14:03:53
+ro:1431842633
+uid:147503
+text:开远光应该是闪这个车的。。。
+
+
+un:㊣冰哥很低调
+au:False
+time:2015-5-17 18:16:45
+ro:1431857805

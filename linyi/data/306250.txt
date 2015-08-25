@@ -1,0 +1,101 @@
+306250
+PG:RC  1:1431673146
+ctime:2015-5-12 09:48:26
+title:柱子哪里去了。
+text:柱子那里去了？谁干的？
+
+
+当时安装的时候，就说过这些柱子的生命力不会太长。现在这些柱子成这样了。
+http://img.langya.cn/forum/201505/12/094640ir0jsjf8shufh0qj.jpg.thumb.jpg
+
+
+uname:沂蒙老汉
+sec:关注临沂
+ro:0
+uid:5267
+uid:293
+text:呵呵       呵呵
+
+
+un:美本家
+au:False
+time:2015-5-12 09:58:55
+ro:1431395935
+uid:117410
+text:这是哪？老汉也扫街了啊
+
+
+un:柳羱
+au:False
+time:2015-5-12 10:08:33
+ro:1431396513
+uid:403387
+text:被人弄回家了，哈哈。。。
+
+
+
+粉末冶金轴承http://www.luhuanan.com/
+
+
+un:雨的味道
+au:False
+time:2015-5-12 14:42:36
+ro:1431412956
+uid:412342
+text:怕影响早餐吗?
+
+
+un:厨子
+au:False
+time:2015-5-12 15:00:40
+ro:1431414040
+uid:56362
+text:
+
+
+un:冰果
+au:False
+time:2015-5-12 15:41:45
+ro:1431416505
+uid:41335
+text:谁知道呢
+
+
+un:临沂巴黎春天
+au:False
+time:2015-5-12 15:49:18
+ro:1431416958
+uid:393040
+text:  这样很危险，，不小心被绊倒了，摔得很厉害。。。。难道就只顾着安装，，被人弄坏之后就没人管了，，，，
+
+
+un:壹品.饰家装饰
+au:False
+time:2015-5-12 17:06:15
+ro:1431421575
+uid:5267
+text:这会是柱子没有了的原因吗？
+http://img.langya.cn/forum/201505/15/134818zb0uu584229l5u88.jpg.thumb.jpg
+
+
+un:沂蒙老汉
+au:True
+time:2015-5-15 13:49:25
+ro:1431668965
+uid:5267
+text:这会是柱子不见了的原因吗？
+http://img.langya.cn/forum/201505/15/135122e5lts6ng3lrrslal.jpg.thumb.jpg
+
+
+un:沂蒙老汉
+au:True
+time:2015-5-15 13:53:00
+ro:1431669180
+uid:143459
+text:千言万语汇成一句无言的叹息。。。
+
+
+un:托尼点COM
+au:False
+time:2015-5-15 14:59:06
+ro:1431673146

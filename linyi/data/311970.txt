@@ -1,0 +1,45 @@
+311970
+PG:RC  1:1433636721
+ctime:2015-6-7 06:37:10
+title:两张照片  大家来找茬吧
+text:第一张拍于5月25日  第二张拍于6月7日
+http://img.langya.cn/forum/201506/07/063641o1kxddp1pjri13pd.jpg.thumb.jpg
+http://img.langya.cn/forum/201506/07/063641pgtp9edqz6hpkttu.png.thumb.jpg
+
+
+uname:酷瞎子
+sec:关注临沂
+ro:0
+uid:9437
+uid:9437
+text:@鬼迷心窍 
+
+
+un:酷瞎子
+au:True
+time:2015-6-7 06:37:40
+ro:1433630260
+uid:191395
+text:我要是说了算，一天换一遍
+
+
+un:上善-若水
+au:False
+time:2015-6-7 07:14:22
+ro:1433632462
+uid:19812
+text:其他字随便抹掉，我堂堂的罗庄也消失了
+
+
+un:多吃点
+au:False
+time:2015-6-7 07:28:14
+ro:1433633294
+uid:686
+text:第二张更完善了
+
+
+un:zaijin1990
+au:False
+time:2015-6-7 08:25:21
+ro:1433636721

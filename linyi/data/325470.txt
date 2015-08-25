@@ -1,0 +1,56 @@
+325470
+PG:RC  1:1439230304
+ctime:2015-8-10 06:58:05
+title:莒南公路上惊现假交通执法警车
+text:
+http://img.langya.cn/forum/201508/10/065523hj92wf7dj29jd774.jpg.thumb.jpg
+http://img.langya.cn/forum/201508/10/065525vcfcz000yl4zhk4e.jpg.thumb.jpg
+http://img.langya.cn/forum/201508/10/065527g83ou6kuu6eku7kb.jpg.thumb.jpg
+http://img.langya.cn/forum/201508/10/065529etfw3finnq0qeruu.jpg.thumb.jpg
+http://img.langya.cn/forum/201508/10/065530rtm5l5uqlrstzsm5.jpg.thumb.jpg
+http://img.langya.cn/forum/201508/10/065532azjaj252t9brf3r5.jpg.thumb.jpg
+http://img.langya.cn/forum/201508/10/065534for3hzrzq4oqtzdt.jpg.thumb.jpg
+http://img.langya.cn/forum/201508/10/065536yvjdtq5b41dd2q8f.jpg.thumb.jpg
+http://img.langya.cn/forum/201508/10/065538nw9w78zcpwge9gis.jpg.thumb.jpg
+http://img.langya.cn/forum/201508/10/065540upe00dd0a0z0njjm.jpg.thumb.jpg
+http://img.langya.cn/forum/201508/10/065541h7vc55f52zq1wi57.jpg.thumb.jpg
+http://img.langya.cn/forum/201508/10/065543yann04zrqzvaxxs4.jpg.thumb.jpg
+http://img.langya.cn/forum/201508/10/065545koonxxkn99yvios4.jpg.thumb.jpg
+
+
+uname:鹏程一梦
+sec:关注临沂
+ro:0
+uid:84872
+uid:2327
+text:看这样因该是交通部门的新式执法车辆，看不出来是假的，交警部门跟交通部门本来执法车辆就不一样。
+
+
+un:jieli0539
+au:False
+time:2015-8-10 07:12:32
+ro:1439161952
+uid:19812
+text:按规矩来就算是假的也不可能无缘无故罚款吧
+
+
+un:多吃点
+au:False
+time:2015-8-10 07:58:50
+ro:1439164730
+uid:33162
+text:哪里看出是假的来？
+
+
+un:洪都刀客
+au:False
+time:2015-8-11 00:53:43
+ro:1439225623
+uid:5267
+text:无编号。
+
+
+un:沂蒙老汉
+au:False
+time:2015-8-11 02:11:44
+ro:1439230304

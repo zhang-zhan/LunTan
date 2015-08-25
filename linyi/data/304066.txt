@@ -1,0 +1,36 @@
+304066
+PG:RC  1:1430531664
+ctime:2015-5-2 07:18:29
+title:给长颈鹿称重
+text:
+http://img.langya.cn/forum/201505/02/071822td3md3jplp9wmmwd.jpg.thumb.jpg
+
+
+uname:神秘色彩
+sec:灌水拉呱
+ro:0
+uid:154
+uid:125087
+text:
+
+
+un:黑老
+au:False
+time:2015-5-2 09:26:15
+ro:1430529975
+uid:191395
+text:临沂动物园的公长颈鹿在和他媳妇啪啪的时候头撞了屋顶，死掉了。只剩下了孤儿寡母，就是前些年能看到的一大一小，不知现在什么样了。
+
+
+un:上善-若水
+au:False
+time:2015-5-2 09:42:13
+ro:1430530933
+uid:225241
+text:
+
+
+un:古典控
+au:False
+time:2015-5-2 09:54:24
+ro:1430531664

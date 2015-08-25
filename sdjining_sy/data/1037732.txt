@@ -1,0 +1,74 @@
+1037732
+PG:RC  1:1437446650
+ctime:2015-7-17 22:05:20
+title:什么情况 拍电影吗
+text:http://img.syuan.net/forum/201507/17/220418w6fwpnfbb2ie1f28.png
+http://img.syuan.net/forum/201507/17/220425r9lspsp9tvzk8gx1.jpg
+http://img.syuan.net/forum/201507/17/220430z7xhhhwu0bpb9x9h.jpg
+http://img.syuan.net/forum/201507/17/220434o4xeczcggxl9f9sb.jpg
+
+
+
+
+
+  
+uname:清华情201313
+sec:灌水专区
+ro:1437141920
+uid:35902
+uid:16765
+text:地上还有血？
+un:逗你玩儿
+au:False
+time:2015-7-17 22:25:14
+ro:1437143114
+uid:16765
+quote:清华情201313 发表于 2015-7-17 22:28
+有个特警拿着一个叉子
+un:逗你玩儿
+au:False
+time:2015-7-17 22:29:34
+ro:1437143374
+text:买买提？
+uid:35902
+quote:逗你玩儿 发表于 2015-7-17 22:25
+地上还有血？
+un:清华情201313
+au:True
+time:2015-7-17 22:28:19
+ro:1437143299
+text:http://img.syuan.net/forum/201507/17/223435ehp5cj151vv9jmhh.jpg
+
+
+
+有个特警拿着一个叉子
+uid:35902
+text:呵呵了
+un:清华情201313
+au:True
+time:2015-7-17 22:14:58
+ro:1437142498
+uid:336680
+text:我不说话 我只是过来看看
+un:一朵海棠花
+au:False
+time:2015-7-18 16:19:36
+ro:1437207576
+uid:238906
+text:闹事
+un:卖唱的
+au:False
+time:2015-7-18 17:35:30
+ro:1437212130
+uid:146568
+text:
+un:地道济宁人
+au:False
+time:2015-7-20 17:00:16
+ro:1437382816
+uid:207226
+text:那个面包车没有牌照，很可疑
+un:guanggun521
+au:False
+time:2015-7-21 10:44:10
+ro:1437446650

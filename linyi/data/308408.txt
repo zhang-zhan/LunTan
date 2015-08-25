@@ -1,0 +1,160 @@
+308408
+PG:RC  2:1432359986
+ctime:2015-5-20 20:16:07
+title:拍客看到的广场退赃大会现场
+text:拍客眼中的临沂人民广场退赃大会
+
+       今天上午拍客去市人民广场转了一圈，看了看退赃大会，实际上摩托车居多，电瓶车、自行车就几辆，围观的市民也有不少，同时宣传防盗知识做得很好很到位。
+        拍客在周围转悠了一会儿，也确实看到有市民办理登记手续领车子，不错，能找到找回自己的爱车，也真是幸运，拍客给赞一个！
+http://img.langya.cn/forum/201505/20/201349feq0n1sqn3t8w3tw.jpg.thumb.jpg
+http://img.langya.cn/forum/201505/20/201350amoooe3sumt9qnyo.jpg.thumb.jpg
+http://img.langya.cn/forum/201505/20/201350pe9rapepex3aa92p.jpg.thumb.jpg
+http://img.langya.cn/forum/201505/20/201351b2z18eh9abkg2gpk.jpg.thumb.jpg
+http://img.langya.cn/forum/201505/20/201351il04sw1hy1ss3rws.jpg.thumb.jpg
+http://img.langya.cn/forum/201505/20/201352v6q2nkwm9cn91wcn.jpg.thumb.jpg
+http://img.langya.cn/forum/201505/20/201353r2rjrn6ay3yasqrp.jpg.thumb.jpg
+http://img.langya.cn/forum/201505/20/201353cumdmgd24i08dhm0.jpg.thumb.jpg
+http://img.langya.cn/forum/201505/20/201354lb303ybm511cdzc1.jpg.thumb.jpg
+http://img.langya.cn/forum/201505/20/201354kvhw2vnawagvgvgd.jpg.thumb.jpg
+
+
+uname:美本家
+sec:关注临沂
+ro:0
+uid:293
+uid:3545
+text:这种具有轰动效应、追求形式的活动，似乎应该是陈旧而过时了。这么多的赃物，如果是短时间所获，除了表达人民警察的神勇外，是不是也暴露出本地域人民对安全因素的担心？如果是很长时间的积累，说明了临沂社会的安定平安，犯罪率低，这就应该及时的退赃，一不因积压占地，二保证及时归还失主，发挥物品的功能。
+
+
+un:如是我闻
+au:False
+time:2015-5-21 08:52:30
+ro:1432169550
+uid:138795
+text:能找回的 真是幸运了 
+
+
+un:百斯特
+au:False
+time:2015-5-20 21:16:23
+ro:1432127783
+uid:691
+text:08年在中医院丢了一辆电动车。
+
+
+un:韩妆小铺
+au:False
+time:2015-5-20 22:19:31
+ro:1432131571
+uid:76600
+text:大部分车找不到失主了
+
+
+un:潮退拾贝
+au:False
+time:2015-5-21 04:25:39
+ro:1432153539
+uid:213834
+text:好天，好事，好片子！来自: Android客户端
+
+
+un:水泊云蒙
+au:False
+time:2015-5-21 06:24:05
+ro:1432160645
+uid:6510
+text:流于形式，能退回几辆呢？好多失主不知道这事呢！
+
+
+un:hihn
+au:False
+time:2015-5-21 08:57:28
+ro:1432169848
+uid:143459
+text:不错，起到震慑作用和很好的宣传作用，实用性暂且不说，起码能看到市政府、公安部门有作为，赞！
+
+
+un:托尼点COM
+au:False
+time:2015-5-21 09:02:01
+ro:1432170121
+uid:139926
+text:俺的电动车，光电瓶丢了两块了，都是在人民医院附近，锁上链子都白搭，小偷太多了，
+
+
+un:逍遥猎人007
+au:False
+time:2015-5-21 10:51:54
+ro:1432176714
+uid:250395
+text:我的笔记本什么时候到啊？？？
+
+
+un:高欢
+au:False
+time:2015-5-21 10:53:51
+ro:1432176831
+uid:56362
+text:还有能找回来的，那真是幸福极了。
+
+
+un:冰果
+au:False
+time:2015-5-21 11:02:01
+ro:1432177321
+uid:41335
+text:真是难得
+
+
+un:临沂巴黎春天
+au:False
+time:2015-5-21 14:11:31
+ro:1432188691
+uid:185528
+text:不错，赞一个
+
+
+un:慢慢领悟
+au:False
+time:2015-5-21 14:20:43
+ro:1432189243
+uid:412342
+text:防盗，时时在仿，飞贼难防。
+
+
+un:厨子
+au:False
+time:2015-5-21 17:55:04
+ro:1432202104
+uid:101742
+text:
+
+
+un:盈盈一水间
+au:False
+time:2015-5-21 19:03:19
+ro:1432206199
+uid:200260
+text:
+
+
+un:剑舞苍穹
+au:False
+time:2015-5-22 05:08:37
+ro:1432242517
+uid:154
+text:好事情！
+
+
+un:神秘色彩
+au:False
+time:2015-5-22 06:39:26
+ro:1432247966
+uid:125087
+text:
+
+
+un:黑老
+au:False
+time:2015-5-23 13:46:26
+ro:1432359986

@@ -1,0 +1,261 @@
+299583
+PG:RC  2:1433802004
+ctime:2015-4-9 22:02:31
+title:在临沂人民广场抓拍的一组图片
+text:
+http://img.langya.cn/forum/201504/09/215410nfnvnsji0n4c0s03.jpg.thumb.jpg
+http://img.langya.cn/forum/201504/09/215507f90yv12ivmph0901.jpg.thumb.jpg
+http://img.langya.cn/forum/201504/09/215546r0qzamvxjvcsqsrj.jpg.thumb.jpg
+http://img.langya.cn/forum/201504/09/215635z57laxu01vo7fa1y.jpg.thumb.jpg
+http://img.langya.cn/forum/201504/09/215734y54j88xa4hi82k0h.jpg.thumb.jpg
+http://img.langya.cn/forum/201504/09/215812zl7wjvwqltaza8ha.jpg.thumb.jpg
+http://img.langya.cn/forum/201504/09/215901zo6o2f24zdvoodrs.jpg.thumb.jpg
+http://img.langya.cn/forum/201504/09/215952erwvffuwkwfgy11s.jpg.thumb.jpg
+http://img.langya.cn/forum/201504/09/220031ob6wuppbpuu4jv6w.jpg.thumb.jpg
+http://img.langya.cn/forum/201504/09/220128ddooi8uv3uvodvih.jpg.thumb.jpg
+http://img.langya.cn/forum/201504/09/220213t4e7t8e48to87o88.jpg.thumb.jpg
+
+
+uname:苍梧一粟
+sec:关注临沂
+ro:0
+uid:49375
+uid:381903
+text:
+
+
+un:日照海港7
+au:False
+time:2015-4-10 08:48:28
+ro:1428626908
+uid:393040
+text:  大美临沂啊，，，不过零公里的标志是不是该换一换了，，感觉好陈旧，，而且感觉好普通，，
+
+
+un:壹品.饰家装饰
+au:False
+time:2015-4-10 08:55:58
+ro:1428627358
+uid:49375
+quote:一步一个脚印 发表于 2015-4-10 08:55
+大美临沂啊，，，不过零公里的标志是不是该换一换了，，感觉好陈旧，，而且感觉好普通，，
+time:2015-4-10 10:13:18
+un:苍梧一粟
+au:True
+text:呵呵，才看过第一次，不知是如何计算出来的？
+
+
+ro:1428631998
+uid:49375
+quote:日照海港7 发表于 2015-4-10 08:48
+time:2015-4-10 10:14:46
+un:苍梧一粟
+au:True
+text:临沂人的大手笔，在寸土寸金的黄金地段，整出如此的休闲广场，真得要有壮士断腕的气概。赞一个
+
+
+ro:1428632086
+uid:194282
+text:
+
+
+un:小小杨
+au:False
+time:2015-4-10 10:15:19
+ro:1428632119
+uid:375937
+quote:苍梧一粟 发表于 2015-4-10 10:14
+临沂人的大手笔，在寸土寸金的黄金地段，整出如此的休闲广场，真得要有壮士断腕的气概。赞一个
+time:2015-4-10 10:18:55
+un:、yoyo
+au:False
+text:是先有了人民广场  附近的地段才变得寸土寸金    
+
+
+ro:1428632335
+uid:49375
+quote:小小杨 发表于 2015-4-10 10:15
+time:2015-4-10 10:19:38
+un:苍梧一粟
+au:True
+text:临沂人爱生活，会享受生活，创造出如此美丽的广场，看鸽子自由的飞翔，看老百姓悠闲的在这里自娱自乐。我想即使天上的神仙见了人间有这么美好的地方，也会动了凡心，降落大美临沂。
+
+
+ro:1428632378
+uid:381903
+text:
+
+
+un:日照海港7
+au:False
+time:2015-4-10 10:28:08
+ro:1428632888
+uid:3523
+text:除了雾霾天的感觉不好，一片和谐。
+
+
+un:jackiegao001
+au:False
+time:2015-4-10 10:53:44
+ro:1428634424
+uid:49375
+quote:jackiegao001 发表于 2015-4-10 10:53
+除了雾霾天的感觉不好，一片和谐。
+time:2015-4-10 11:24:45
+un:苍梧一粟
+au:True
+text:是呀，那里出现雾霾都是一件头疼的事情，愿我们的蓝天能像西藏的天空一样明镜。
+
+
+ro:1428636285
+uid:49375
+quote:日照海港7 发表于 2015-4-10 10:28
+time:2015-4-10 11:24:56
+un:苍梧一粟
+au:True
+text:问好
+
+
+ro:1428636296
+uid:157
+text:
+
+
+un:沂河清风
+au:False
+time:2015-4-10 12:01:08
+ro:1428638468
+uid:140057
+text:
+
+
+un:临沂燕子
+au:False
+time:2015-4-10 12:23:39
+ro:1428639819
+uid:49375
+quote:、yoyo 发表于 2015-4-10 10:18
+是先有了人民广场  附近的地段才变得寸土寸金
+time:2015-4-10 13:28:13
+un:苍梧一粟
+au:True
+text:我记得人民广场的身底下是一条商业街
+
+
+ro:1428643693
+uid:235230
+text:
+
+
+un:dangfangmu
+au:False
+time:2015-4-10 14:02:10
+ro:1428645730
+uid:191395
+quote:苍梧一粟 发表于 2015-4-10 10:14
+临沂人的大手笔，在寸土寸金的黄金地段，整出如此的休闲广场，真得要有壮士断腕的气概。赞一个
+time:2015-4-10 14:04:11
+un:上善-若水
+au:False
+text:这广场本是部队的大院子，裁军后，便宜点卖给了市政府，也算部队为支援老区建设做了点贡献
+
+
+ro:1428645851
+uid:56362
+text:挺好的。感觉好久没去了。
+
+
+un:冰果
+au:False
+time:2015-4-10 14:50:20
+ro:1428648620
+uid:49375
+quote:上善-若水 发表于 2015-4-10 14:04
+这广场本是部队的大院子，裁军后，便宜点卖给了市政府，也算部队为支援老区建设做了点贡献
+time:2015-4-10 16:52:30
+un:苍梧一粟
+au:False
+text:军民本一家，沂蒙老区战争年代谱写多少军民鱼水篇章。
+
+
+ro:1428655950
+uid:49375
+quote:dangfangmu 发表于 2015-4-10 14:02
+time:2015-4-10 16:53:09
+un:苍梧一粟
+au:False
+text:
+
+
+ro:1428655989
+uid:140190
+text:
+
+
+un:caleb12
+au:False
+time:2015-4-10 16:54:37
+ro:1428656077
+uid:49375
+quote:caleb12 发表于 2015-4-10 16:54
+time:2015-4-10 16:56:22
+un:苍梧一粟
+au:False
+text:
+
+
+ro:1428656182
+uid:10739
+text:
+
+
+un:火热的冰
+au:False
+time:2015-4-10 21:57:06
+ro:1428674226
+uid:49375
+quote:火热的冰 发表于 2015-4-10 21:57
+time:2015-6-9 06:19:23
+un:苍梧一粟
+au:False
+text:清晨问声好
+
+
+ro:1433801963
+uid:49375
+quote:苍梧一粟 发表于 2015-4-10 16:53
+time:2015-6-9 06:19:36
+un:苍梧一粟
+au:False
+text:清晨问声好
+
+
+ro:1433801976
+uid:49375
+quote:caleb12 发表于 2015-4-10 16:54
+time:2015-6-9 06:19:41
+un:苍梧一粟
+au:False
+text:清晨问声好
+
+
+ro:1433801981
+uid:49375
+quote:冰果 发表于 2015-4-10 14:50
+挺好的。感觉好久没去了。
+time:2015-6-9 06:19:54
+un:苍梧一粟
+au:False
+text:清晨问声好
+
+
+ro:1433801994
+uid:49375
+quote:dangfangmu 发表于 2015-4-10 14:02
+time:2015-6-9 06:20:04
+un:苍梧一粟
+au:False
+text:清晨问声好
+
+
+ro:1433802004

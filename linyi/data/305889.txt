@@ -1,0 +1,48 @@
+305889
+PG:RC  1:1431314334
+ctime:2015-5-10 21:33:44
+title:拒绝黄赌毒！平邑尽20家涉黄场所被查封！
+text:近日，平邑县公安局治安大队集中整治“红灯区”，查封了尽20家涉黄窝点，抓捕涉案人员多名，这些窝点有的是以ktv作掩护，有的直接不挂牌，从事卖淫活动！这次力度之大，前所未有，足见公安部门的整治决心！老百姓一致给赞！
+http://img.langya.cn/forum/201505/10/213319n99s40tkbqzbpsrj.jpg.thumb.jpg
+http://img.langya.cn/forum/201505/10/213314vii9npoyrgion76p.jpg.thumb.jpg
+http://img.langya.cn/forum/201505/10/213325cb4ogmke0nnxgmk8.jpg.thumb.jpg
+http://img.langya.cn/forum/201505/10/213330kyy3nyz6nyjnrqua.jpg.thumb.jpg
+http://img.langya.cn/forum/201505/10/213332cq3xztmz2ztmse32.jpg.thumb.jpg
+
+
+uname:快乐加油站
+sec:关注临沂
+ro:0
+uid:47871
+uid:192031
+text:平邑多大啊？被查处的就要20家？他们是怎么发展起来的？
+
+
+un:沂河愚翁
+au:False
+time:2015-5-10 22:06:50
+ro:1431266810
+uid:6930
+text:近还是尽？
+
+
+un:司马长风
+au:False
+time:2015-5-10 22:15:51
+ro:1431267351
+uid:47871
+text:
+
+
+un:快乐加油站
+au:True
+time:2015-5-11 08:58:46
+ro:1431305926
+uid:47871
+text:
+
+
+un:快乐加油站
+au:True
+time:2015-5-11 11:18:54
+ro:1431314334

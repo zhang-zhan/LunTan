@@ -1,0 +1,205 @@
+60256
+PG:RC  2:1435410802
+ctime:2011-10-10 13:36:56
+title:在蒙阴发现一硕大脸谱蜘蛛。
+text:蒙阴云蒙湖一支流畔，某个玉米地旁，有一只蜘蛛，伴着枯木唱京剧。
+http://img.langya.cn/forum/201110/10/13364383xx5x73gok5x0yo.png
+http://img.langya.cn/forum/201110/10/133643b4sj4m8caafxj43k.png
+http://img.langya.cn/forum/201110/10/133642m8libkciyii4rmam.png
+http://img.langya.cn/forum/201110/10/13364225n2161y151zm51v.png
+http://img.langya.cn/forum/201110/10/133642ab1m9biijmmbqfvq.png
+http://img.langya.cn/forum/201110/10/1336416320w1mwq16mv6zq.png
+http://img.langya.cn/forum/201110/10/133641i3isiasinha73fud.png
+
+
+uname:小李探花郎
+sec:关注临沂
+ro:0
+uid:96
+uid:5605
+text:它竟然摆出各种姿势让人拍照。。
+
+
+un:唤取雪儿对舞
+au:False
+time:2011-10-10 14:45:44
+ro:1318229144
+uid:96
+quote:唤取雪儿对舞 发表于 2011-10-10 14:45 
+它竟然摆出各种姿势让人拍照。。
+time:2011-10-10 15:15:18
+un:小李探花郎
+au:True
+text:恩，它真把自己当京剧演员了
+
+
+ro:1318230918
+uid:12657
+text:蜘蛛精啊[:310:]
+
+
+un:马婆
+au:False
+time:2011-10-10 15:27:26
+ro:1318231646
+uid:4413
+text:怪好看，呵呵。[:291:]
+
+
+un:hy海洋
+au:False
+time:2011-10-10 15:44:22
+ro:1318232662
+uid:4413
+text:[:330:][:330:]
+
+
+un:hy海洋
+au:False
+time:2011-10-10 15:44:34
+ro:1318232674
+uid:12944
+text:别看他大,,,,,,,,,一砖就呼死了..
+
+
+un:焱焱焱
+au:False
+time:2011-10-10 16:44:13
+ro:1318236253
+uid:96
+quote:xj199241 发表于 2011-10-10 16:44 
+别看他大,,,,,,,,,一砖就呼死了..
+time:2011-10-10 16:45:12
+un:小李探花郎
+au:True
+text:我当时真有着想法
+
+
+ro:1318236312
+uid:4944
+text:变脸[:330:]
+
+
+un:临超
+au:False
+time:2011-10-10 17:16:49
+ro:1318238209
+uid:6377
+text:天天趴网上，无聊不？
+
+
+
+
+
+。。
+
+
+un:灰毛兔子
+au:False
+time:2011-10-10 17:30:01
+ro:1318239001
+uid:15931
+text:[:307:][:307:]
+
+
+un:非常重要
+au:False
+time:2011-10-10 17:55:19
+ro:1318240519
+uid:3976
+text:找了个同伴
+
+
+un:fengyuewubian
+au:False
+time:2011-10-11 08:27:45
+ro:1318292865
+uid:12657
+text:我也有张 唱小生的
+http://img.langya.cn/forum/201110/11/08434488rz2doo2hgdvn8c.jpg
+
+
+un:马婆
+au:False
+time:2011-10-11 08:44:14
+ro:1318293854
+uid:20006
+text:这是我在费县拍的，山石上好多的
+http://img.langya.cn/forum/201110/11/165837psb6q7n6nw6zb1bt.jpg
+http://img.langya.cn/forum/201110/11/1658374v1vz5ll11zzu5un.jpg
+
+
+un:浪子韩柏
+au:False
+time:2011-10-11 16:59:13
+ro:1318323553
+uid:20006
+quote:灰毛兔子 发表于 2011-10-10 17:30 
+天天趴网上，无聊不？
+time:2011-10-11 16:59:59
+un:浪子韩柏
+au:False
+text:兔子哥，我发现你也天天挂在网上[:299:]
+
+
+ro:1318323599
+uid:38207
+text:  初中的时候  养过这样的蜘蛛. 还有那种大的胖的.  夏天逮着蟋蟀 还有那个 lugu.  放到它嘴边  就吃. 一晚上 就给吸的差不多了  ... 养的时候还生了一大窝小蜘蛛...    
+
+
+un:夕阳西下点点红
+au:False
+time:2012-3-27 13:50:25
+ro:1332827425
+uid:19812
+text:还是喜欢蛇
+
+
+un:多吃点
+au:False
+time:2012-3-27 15:48:43
+ro:1332834523
+uid:96
+quote:多吃点 发表于 2012-3-27 15:48 
+还是喜欢蛇
+time:2012-3-27 15:53:31
+un:小李探花郎
+au:False
+text:[:292:]
+
+
+ro:1332834811
+uid:232854
+text:天天趴网上，无聊不？
+
+
+un:东山猎人
+au:False
+time:2015-6-26 22:09:18
+ro:1435327758
+uid:13587
+text:小时候河边见过不少，花花绿绿很很漂亮。有一次手贱，拿手里玩，被狠狠咬了一口... ...
+
+
+un:海歌18727
+au:False
+time:2015-6-27 09:52:03
+ro:1435369923
+uid:4570
+text:正宗网虫
+
+
+un:一把刀
+au:False
+time:2015-6-27 13:16:48
+ro:1435382208
+uid:336196
+quote:一把刀 发表于 2015-6-27 13:16
+正宗网虫
+time:2015-6-27 21:13:22
+un:15065950835
+au:False
+text:可不里了，这买卖赛成精了。
+
+
+ro:1435410802

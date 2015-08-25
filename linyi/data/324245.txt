@@ -1,0 +1,73 @@
+324245
+PG:RC  1:1438738717
+ctime:2015-8-5 06:04:33
+title:不下雨，没大风还是不行呀
+text:http://tianqi.2345.com/linyi/54938.htm?flash
+http://img.langya.cn/forum/201508/05/060538cym3zv00pr3yj6hh.jpg.thumb.jpg
+http://img.langya.cn/forum/201508/05/060407zgz27tj020vyyjjs.jpg.thumb.jpg
+
+
+uname:神秘色彩
+sec:关注临沂
+ro:0
+uid:154
+uid:19812
+text:昨天俺这下了一个多小时
+
+
+un:多吃点
+au:False
+time:2015-8-5 07:24:39
+ro:1438730679
+uid:154
+quote:多吃点 发表于 2015-8-5 07:24
+昨天俺这下了一个多小时
+time:2015-8-5 07:37:49
+un:神秘色彩
+au:True
+text:给老家匀点呗 
+
+
+ro:1438731469
+uid:12944
+text:全靠风
+
+
+un:焱焱焱
+au:False
+time:2015-8-5 07:49:51
+ro:1438732191
+uid:154
+quote:焱焱焱 发表于 2015-8-5 07:49
+全靠风
+time:2015-8-5 07:53:31
+un:神秘色彩
+au:True
+text:风不知何时来
+
+
+ro:1438732411
+uid:125087
+text:不准了
+
+
+un:黑老
+au:False
+time:2015-8-5 09:07:23
+ro:1438736843
+uid:210855
+text:循循渐进
+
+
+un:琅琊大仙
+au:False
+time:2015-8-5 09:16:34
+ro:1438737394
+uid:138795
+text:天天预报雷阵雨  就没见下过
+
+
+un:百斯特
+au:False
+time:2015-8-5 09:38:37
+ro:1438738717

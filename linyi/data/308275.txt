@@ -1,0 +1,57 @@
+308275
+PG:RC  1:0
+ctime:2015-5-20 11:54:17
+title:如何用手机登陆Instagram？Android PPTP 517VPN设置教程
+text:                     如何用手机登陆Instagram？Android PPTP 517VPN设置教程
+
+现在vpn使用的越发频繁，用处越来越多，今天我就来为大家详细讲解一下Android手机如何设置vpn
+
+Instagram是一款应用程序，以一种快速、美妙和有趣的方式将你随时抓拍下的图片分享彼此，现在越来越受年轻人的追捧与喜爱。
+
+第一步：点"菜单"-> "设置"
+
+
+第二步：选择"更多...".
+
+
+第三步：选择 "VPN".
+
+
+第四步：选择 "添加VPN网络" 选项.
+
+
+第五步：在"类型" 选项中，选择"PPTP"，取消PPP加密.
+
+
+第六步："名称"输入pptp.服务器地址输入：服务器的IP，其他线路地址网站查询.点击"显示高级选项".在 "DNS servers" 输入8.8.8.8.点击 "保存".
+
+
+第七步：保存后，会有"PPTP"连接在列表上. 点击PPTP这个连接.
+
+
+第八步：输入"用户名"和 "密码" (联系517加速器企业QQ：800019753获取账号密码).选择"保存帐号信息".点击 "连接" 按钮.
+
+
+第九步：当 VPN已连接是， pptp的状态改为"已连接".
+
+
+这时就可以用手机正常登陆Instagram了
+
+517vpn官方网站：www.517js.net，新浪博客：http://blog.sina.com.cn/s/articlelist_5426605588_0_1.html，官方在
+
+线企业客服QQ：800019753.
+http://img.langya.cn/forum/201505/20/115321oqddzi2i2q5ii1dp.png.thumb.jpg
+http://img.langya.cn/forum/201505/20/115321t2qcbczbsyds2kqg.png.thumb.jpg
+http://img.langya.cn/forum/201505/20/115322uf4e3nqfrq6nn35e.png.thumb.jpg
+http://img.langya.cn/forum/201505/20/115322t000xxe2flex520f.png.thumb.jpg
+http://img.langya.cn/forum/201505/20/115322h3e939g9e0fcez05.png.thumb.jpg
+http://img.langya.cn/forum/201505/20/115323x66n7q7a67hqa2un.png.thumb.jpg
+http://img.langya.cn/forum/201505/20/115324nf8x4p7tp47o7u8l.png.thumb.jpg
+http://img.langya.cn/forum/201505/20/115324y51fru80185l4d0a.png.thumb.jpg
+http://img.langya.cn/forum/201505/20/115321j0jk7ltj69k4ju09.png.thumb.jpg
+
+
+uname:nxis454
+sec:灌水拉呱
+ro:0
+uid:422259

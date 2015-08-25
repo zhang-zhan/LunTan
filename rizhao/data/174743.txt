@@ -1,0 +1,16 @@
+174743
+PG:RC  1:0
+ctime:2015-8-6 16:01
+title:菏泽商场遭汽车围堵 因停车场收费纠纷
+text:2015年08月05日，山东省菏泽市中心繁华路段一商场被数十辆私家车首尾相连组成的“长龙”围的水泄不通。
+data/attachment/forum/201508/06/160103rz8i40lxzizaj89e.jpg
+data/attachment/forum/201508/06/160107a9optbw6h2w3t6ch.jpg
+data/attachment/forum/201508/06/160115gou7wihgqrrvvovr.jpg
+data/attachment/forum/201508/06/160119v5wuthfnftzf4534.jpg
+data/attachment/forum/201508/06/160124pwywomyssz77hooy.jpg
+
+
+uname:有一说一
+sec:我爱日照
+ro:0
+uid:39758
